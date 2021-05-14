@@ -1,0 +1,6 @@
+/Users/mawhinneym/Projects/FileSystem/bin/Debug/FileSystem.exe
+/Users/mawhinneym/Projects/FileSystem/bin/Debug/FileSystem.pdb
+/Users/mawhinneym/Projects/FileSystem/obj/Debug/FileSystem.csprojAssemblyReference.cache
+/Users/mawhinneym/Projects/FileSystem/obj/Debug/FileSystem.csproj.CoreCompileInputs.cache
+/Users/mawhinneym/Projects/FileSystem/obj/Debug/FileSystem.exe
+/Users/mawhinneym/Projects/FileSystem/obj/Debug/FileSystem.pdb

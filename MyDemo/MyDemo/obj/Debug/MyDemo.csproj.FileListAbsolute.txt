@@ -1,0 +1,6 @@
+/Users/mawhinneym/Projects/MyDemo/MyDemo/bin/Debug/MyDemo.exe
+/Users/mawhinneym/Projects/MyDemo/MyDemo/bin/Debug/MyDemo.pdb
+/Users/mawhinneym/Projects/MyDemo/MyDemo/obj/Debug/MyDemo.csprojAssemblyReference.cache
+/Users/mawhinneym/Projects/MyDemo/MyDemo/obj/Debug/MyDemo.csproj.CoreCompileInputs.cache
+/Users/mawhinneym/Projects/MyDemo/MyDemo/obj/Debug/MyDemo.exe
+/Users/mawhinneym/Projects/MyDemo/MyDemo/obj/Debug/MyDemo.pdb
