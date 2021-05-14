@@ -1,0 +1,6 @@
+/Users/mawhinneym/Projects/Application_Debug/obj/Debug/Application_Debug.csprojAssemblyReference.cache
+/Users/mawhinneym/Projects/Application_Debug/obj/Debug/Application_Debug.csproj.CoreCompileInputs.cache
+/Users/mawhinneym/Projects/Application_Debug/bin/Debug/Application_Debug.exe
+/Users/mawhinneym/Projects/Application_Debug/bin/Debug/Application_Debug.pdb
+/Users/mawhinneym/Projects/Application_Debug/obj/Debug/Application_Debug.exe
+/Users/mawhinneym/Projects/Application_Debug/obj/Debug/Application_Debug.pdb
