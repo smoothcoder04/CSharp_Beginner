@@ -1,0 +1,15 @@
+/Users/mawhinneym/Projects/C#Beginner/GenericTypeInheritance_Beginner/obj/Debug/net7.0/GenericTypeInheritance_Beginner.csproj.AssemblyReference.cache
+/Users/mawhinneym/Projects/C#Beginner/GenericTypeInheritance_Beginner/obj/Debug/net7.0/GenericTypeInheritance_Beginner.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mawhinneym/Projects/C#Beginner/GenericTypeInheritance_Beginner/obj/Debug/net7.0/GenericTypeInheritance_Beginner.AssemblyInfoInputs.cache
+/Users/mawhinneym/Projects/C#Beginner/GenericTypeInheritance_Beginner/obj/Debug/net7.0/GenericTypeInheritance_Beginner.AssemblyInfo.cs
+/Users/mawhinneym/Projects/C#Beginner/GenericTypeInheritance_Beginner/obj/Debug/net7.0/GenericTypeInheritance_Beginner.csproj.CoreCompileInputs.cache
+/Users/mawhinneym/Projects/C#Beginner/GenericTypeInheritance_Beginner/bin/Debug/net7.0/GenericTypeInheritance_Beginner
+/Users/mawhinneym/Projects/C#Beginner/GenericTypeInheritance_Beginner/bin/Debug/net7.0/GenericTypeInheritance_Beginner.deps.json
+/Users/mawhinneym/Projects/C#Beginner/GenericTypeInheritance_Beginner/bin/Debug/net7.0/GenericTypeInheritance_Beginner.runtimeconfig.json
+/Users/mawhinneym/Projects/C#Beginner/GenericTypeInheritance_Beginner/bin/Debug/net7.0/GenericTypeInheritance_Beginner.dll
+/Users/mawhinneym/Projects/C#Beginner/GenericTypeInheritance_Beginner/bin/Debug/net7.0/GenericTypeInheritance_Beginner.pdb
+/Users/mawhinneym/Projects/C#Beginner/GenericTypeInheritance_Beginner/obj/Debug/net7.0/GenericTypeInheritance_Beginner.dll
+/Users/mawhinneym/Projects/C#Beginner/GenericTypeInheritance_Beginner/obj/Debug/net7.0/refint/GenericTypeInheritance_Beginner.dll
+/Users/mawhinneym/Projects/C#Beginner/GenericTypeInheritance_Beginner/obj/Debug/net7.0/GenericTypeInheritance_Beginner.pdb
+/Users/mawhinneym/Projects/C#Beginner/GenericTypeInheritance_Beginner/obj/Debug/net7.0/GenericTypeInheritance_Beginner.genruntimeconfig.cache
+/Users/mawhinneym/Projects/C#Beginner/GenericTypeInheritance_Beginner/obj/Debug/net7.0/ref/GenericTypeInheritance_Beginner.dll

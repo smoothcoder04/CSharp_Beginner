@@ -1,6 +1,0 @@
-/Users/mawhinneym/Projects/ArrayList/bin/Debug/ArrayList.exe
-/Users/mawhinneym/Projects/ArrayList/bin/Debug/ArrayList.pdb
-/Users/mawhinneym/Projects/ArrayList/obj/Debug/ArrayList.csprojAssemblyReference.cache
-/Users/mawhinneym/Projects/ArrayList/obj/Debug/ArrayList.csproj.CoreCompileInputs.cache
-/Users/mawhinneym/Projects/ArrayList/obj/Debug/ArrayList.exe
-/Users/mawhinneym/Projects/ArrayList/obj/Debug/ArrayList.pdb

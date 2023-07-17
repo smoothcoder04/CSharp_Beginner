@@ -1,0 +1,15 @@
+/Users/mawhinneym/Projects/C#Beginner/TypeCastExplicitImplicit_Beginner.cs/obj/Debug/net7.0/TypeCastExplicitImplicit_Beginner.cs.csproj.AssemblyReference.cache
+/Users/mawhinneym/Projects/C#Beginner/TypeCastExplicitImplicit_Beginner.cs/obj/Debug/net7.0/TypeCastExplicitImplicit_Beginner.cs.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mawhinneym/Projects/C#Beginner/TypeCastExplicitImplicit_Beginner.cs/obj/Debug/net7.0/TypeCastExplicitImplicit_Beginner.cs.AssemblyInfoInputs.cache
+/Users/mawhinneym/Projects/C#Beginner/TypeCastExplicitImplicit_Beginner.cs/obj/Debug/net7.0/TypeCastExplicitImplicit_Beginner.cs.AssemblyInfo.cs
+/Users/mawhinneym/Projects/C#Beginner/TypeCastExplicitImplicit_Beginner.cs/obj/Debug/net7.0/TypeCastExplicitImplicit_Beginner.cs.csproj.CoreCompileInputs.cache
+/Users/mawhinneym/Projects/C#Beginner/TypeCastExplicitImplicit_Beginner.cs/bin/Debug/net7.0/TypeCastExplicitImplicit_Beginner.cs
+/Users/mawhinneym/Projects/C#Beginner/TypeCastExplicitImplicit_Beginner.cs/bin/Debug/net7.0/TypeCastExplicitImplicit_Beginner.cs.deps.json
+/Users/mawhinneym/Projects/C#Beginner/TypeCastExplicitImplicit_Beginner.cs/bin/Debug/net7.0/TypeCastExplicitImplicit_Beginner.cs.runtimeconfig.json
+/Users/mawhinneym/Projects/C#Beginner/TypeCastExplicitImplicit_Beginner.cs/bin/Debug/net7.0/TypeCastExplicitImplicit_Beginner.cs.dll
+/Users/mawhinneym/Projects/C#Beginner/TypeCastExplicitImplicit_Beginner.cs/bin/Debug/net7.0/TypeCastExplicitImplicit_Beginner.cs.pdb
+/Users/mawhinneym/Projects/C#Beginner/TypeCastExplicitImplicit_Beginner.cs/obj/Debug/net7.0/TypeCastExplicitImplicit_Beginner.cs.dll
+/Users/mawhinneym/Projects/C#Beginner/TypeCastExplicitImplicit_Beginner.cs/obj/Debug/net7.0/refint/TypeCastExplicitImplicit_Beginner.cs.dll
+/Users/mawhinneym/Projects/C#Beginner/TypeCastExplicitImplicit_Beginner.cs/obj/Debug/net7.0/TypeCastExplicitImplicit_Beginner.cs.pdb
+/Users/mawhinneym/Projects/C#Beginner/TypeCastExplicitImplicit_Beginner.cs/obj/Debug/net7.0/TypeCastExplicitImplicit_Beginner.cs.genruntimeconfig.cache
+/Users/mawhinneym/Projects/C#Beginner/TypeCastExplicitImplicit_Beginner.cs/obj/Debug/net7.0/ref/TypeCastExplicitImplicit_Beginner.cs.dll

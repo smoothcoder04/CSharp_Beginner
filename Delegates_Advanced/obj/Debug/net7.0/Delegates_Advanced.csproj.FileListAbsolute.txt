@@ -1,0 +1,15 @@
+/Users/mawhinneym/Projects/C#Beginner/Delegates_Advanced/obj/Debug/net7.0/Delegates_Advanced.csproj.AssemblyReference.cache
+/Users/mawhinneym/Projects/C#Beginner/Delegates_Advanced/obj/Debug/net7.0/Delegates_Advanced.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mawhinneym/Projects/C#Beginner/Delegates_Advanced/obj/Debug/net7.0/Delegates_Advanced.AssemblyInfoInputs.cache
+/Users/mawhinneym/Projects/C#Beginner/Delegates_Advanced/obj/Debug/net7.0/Delegates_Advanced.AssemblyInfo.cs
+/Users/mawhinneym/Projects/C#Beginner/Delegates_Advanced/obj/Debug/net7.0/Delegates_Advanced.csproj.CoreCompileInputs.cache
+/Users/mawhinneym/Projects/C#Beginner/Delegates_Advanced/bin/Debug/net7.0/Delegates_Advanced
+/Users/mawhinneym/Projects/C#Beginner/Delegates_Advanced/bin/Debug/net7.0/Delegates_Advanced.deps.json
+/Users/mawhinneym/Projects/C#Beginner/Delegates_Advanced/bin/Debug/net7.0/Delegates_Advanced.runtimeconfig.json
+/Users/mawhinneym/Projects/C#Beginner/Delegates_Advanced/bin/Debug/net7.0/Delegates_Advanced.dll
+/Users/mawhinneym/Projects/C#Beginner/Delegates_Advanced/bin/Debug/net7.0/Delegates_Advanced.pdb
+/Users/mawhinneym/Projects/C#Beginner/Delegates_Advanced/obj/Debug/net7.0/Delegates_Advanced.dll
+/Users/mawhinneym/Projects/C#Beginner/Delegates_Advanced/obj/Debug/net7.0/refint/Delegates_Advanced.dll
+/Users/mawhinneym/Projects/C#Beginner/Delegates_Advanced/obj/Debug/net7.0/Delegates_Advanced.pdb
+/Users/mawhinneym/Projects/C#Beginner/Delegates_Advanced/obj/Debug/net7.0/Delegates_Advanced.genruntimeconfig.cache
+/Users/mawhinneym/Projects/C#Beginner/Delegates_Advanced/obj/Debug/net7.0/ref/Delegates_Advanced.dll

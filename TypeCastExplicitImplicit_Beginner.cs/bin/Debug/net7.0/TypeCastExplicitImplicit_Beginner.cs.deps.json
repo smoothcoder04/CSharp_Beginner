@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "TypeCastExplicitImplicit_Beginner.cs/1.0.0": {
+        "runtime": {
+          "TypeCastExplicitImplicit_Beginner.cs.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "TypeCastExplicitImplicit_Beginner.cs/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

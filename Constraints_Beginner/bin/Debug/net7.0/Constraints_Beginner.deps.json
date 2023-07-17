@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "Constraints_Beginner/1.0.0": {
+        "runtime": {
+          "Constraints_Beginner.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Constraints_Beginner/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

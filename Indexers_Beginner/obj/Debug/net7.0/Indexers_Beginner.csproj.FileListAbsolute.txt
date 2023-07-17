@@ -1,0 +1,15 @@
+/Users/mawhinneym/Projects/C#Beginner/Indexers_Beginner/obj/Debug/net7.0/Indexers_Beginner.csproj.AssemblyReference.cache
+/Users/mawhinneym/Projects/C#Beginner/Indexers_Beginner/obj/Debug/net7.0/Indexers_Beginner.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mawhinneym/Projects/C#Beginner/Indexers_Beginner/obj/Debug/net7.0/Indexers_Beginner.AssemblyInfoInputs.cache
+/Users/mawhinneym/Projects/C#Beginner/Indexers_Beginner/obj/Debug/net7.0/Indexers_Beginner.AssemblyInfo.cs
+/Users/mawhinneym/Projects/C#Beginner/Indexers_Beginner/obj/Debug/net7.0/Indexers_Beginner.csproj.CoreCompileInputs.cache
+/Users/mawhinneym/Projects/C#Beginner/Indexers_Beginner/bin/Debug/net7.0/Indexers_Beginner
+/Users/mawhinneym/Projects/C#Beginner/Indexers_Beginner/bin/Debug/net7.0/Indexers_Beginner.deps.json
+/Users/mawhinneym/Projects/C#Beginner/Indexers_Beginner/bin/Debug/net7.0/Indexers_Beginner.runtimeconfig.json
+/Users/mawhinneym/Projects/C#Beginner/Indexers_Beginner/bin/Debug/net7.0/Indexers_Beginner.dll
+/Users/mawhinneym/Projects/C#Beginner/Indexers_Beginner/bin/Debug/net7.0/Indexers_Beginner.pdb
+/Users/mawhinneym/Projects/C#Beginner/Indexers_Beginner/obj/Debug/net7.0/Indexers_Beginner.dll
+/Users/mawhinneym/Projects/C#Beginner/Indexers_Beginner/obj/Debug/net7.0/refint/Indexers_Beginner.dll
+/Users/mawhinneym/Projects/C#Beginner/Indexers_Beginner/obj/Debug/net7.0/Indexers_Beginner.pdb
+/Users/mawhinneym/Projects/C#Beginner/Indexers_Beginner/obj/Debug/net7.0/Indexers_Beginner.genruntimeconfig.cache
+/Users/mawhinneym/Projects/C#Beginner/Indexers_Beginner/obj/Debug/net7.0/ref/Indexers_Beginner.dll

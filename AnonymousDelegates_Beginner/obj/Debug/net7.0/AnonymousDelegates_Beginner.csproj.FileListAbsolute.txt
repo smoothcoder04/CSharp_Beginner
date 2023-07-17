@@ -1,0 +1,15 @@
+/Users/mawhinneym/Projects/C#Beginner/AnonymousDelegates_Beginner/obj/Debug/net7.0/AnonymousDelegates_Beginner.csproj.AssemblyReference.cache
+/Users/mawhinneym/Projects/C#Beginner/AnonymousDelegates_Beginner/obj/Debug/net7.0/AnonymousDelegates_Beginner.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mawhinneym/Projects/C#Beginner/AnonymousDelegates_Beginner/obj/Debug/net7.0/AnonymousDelegates_Beginner.AssemblyInfoInputs.cache
+/Users/mawhinneym/Projects/C#Beginner/AnonymousDelegates_Beginner/obj/Debug/net7.0/AnonymousDelegates_Beginner.AssemblyInfo.cs
+/Users/mawhinneym/Projects/C#Beginner/AnonymousDelegates_Beginner/obj/Debug/net7.0/AnonymousDelegates_Beginner.csproj.CoreCompileInputs.cache
+/Users/mawhinneym/Projects/C#Beginner/AnonymousDelegates_Beginner/bin/Debug/net7.0/AnonymousDelegates_Beginner
+/Users/mawhinneym/Projects/C#Beginner/AnonymousDelegates_Beginner/bin/Debug/net7.0/AnonymousDelegates_Beginner.deps.json
+/Users/mawhinneym/Projects/C#Beginner/AnonymousDelegates_Beginner/bin/Debug/net7.0/AnonymousDelegates_Beginner.runtimeconfig.json
+/Users/mawhinneym/Projects/C#Beginner/AnonymousDelegates_Beginner/bin/Debug/net7.0/AnonymousDelegates_Beginner.dll
+/Users/mawhinneym/Projects/C#Beginner/AnonymousDelegates_Beginner/bin/Debug/net7.0/AnonymousDelegates_Beginner.pdb
+/Users/mawhinneym/Projects/C#Beginner/AnonymousDelegates_Beginner/obj/Debug/net7.0/AnonymousDelegates_Beginner.dll
+/Users/mawhinneym/Projects/C#Beginner/AnonymousDelegates_Beginner/obj/Debug/net7.0/refint/AnonymousDelegates_Beginner.dll
+/Users/mawhinneym/Projects/C#Beginner/AnonymousDelegates_Beginner/obj/Debug/net7.0/AnonymousDelegates_Beginner.pdb
+/Users/mawhinneym/Projects/C#Beginner/AnonymousDelegates_Beginner/obj/Debug/net7.0/AnonymousDelegates_Beginner.genruntimeconfig.cache
+/Users/mawhinneym/Projects/C#Beginner/AnonymousDelegates_Beginner/obj/Debug/net7.0/ref/AnonymousDelegates_Beginner.dll

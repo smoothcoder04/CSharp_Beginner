@@ -1,0 +1,15 @@
+/Users/mawhinneym/Projects/C#Beginner/Exception_Beginner/obj/Debug/net7.0/Exception_Beginner.csproj.AssemblyReference.cache
+/Users/mawhinneym/Projects/C#Beginner/Exception_Beginner/obj/Debug/net7.0/Exception_Beginner.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mawhinneym/Projects/C#Beginner/Exception_Beginner/obj/Debug/net7.0/Exception_Beginner.AssemblyInfoInputs.cache
+/Users/mawhinneym/Projects/C#Beginner/Exception_Beginner/obj/Debug/net7.0/Exception_Beginner.AssemblyInfo.cs
+/Users/mawhinneym/Projects/C#Beginner/Exception_Beginner/obj/Debug/net7.0/Exception_Beginner.csproj.CoreCompileInputs.cache
+/Users/mawhinneym/Projects/C#Beginner/Exception_Beginner/bin/Debug/net7.0/Exception_Beginner
+/Users/mawhinneym/Projects/C#Beginner/Exception_Beginner/bin/Debug/net7.0/Exception_Beginner.deps.json
+/Users/mawhinneym/Projects/C#Beginner/Exception_Beginner/bin/Debug/net7.0/Exception_Beginner.runtimeconfig.json
+/Users/mawhinneym/Projects/C#Beginner/Exception_Beginner/bin/Debug/net7.0/Exception_Beginner.dll
+/Users/mawhinneym/Projects/C#Beginner/Exception_Beginner/bin/Debug/net7.0/Exception_Beginner.pdb
+/Users/mawhinneym/Projects/C#Beginner/Exception_Beginner/obj/Debug/net7.0/Exception_Beginner.dll
+/Users/mawhinneym/Projects/C#Beginner/Exception_Beginner/obj/Debug/net7.0/refint/Exception_Beginner.dll
+/Users/mawhinneym/Projects/C#Beginner/Exception_Beginner/obj/Debug/net7.0/Exception_Beginner.pdb
+/Users/mawhinneym/Projects/C#Beginner/Exception_Beginner/obj/Debug/net7.0/Exception_Beginner.genruntimeconfig.cache
+/Users/mawhinneym/Projects/C#Beginner/Exception_Beginner/obj/Debug/net7.0/ref/Exception_Beginner.dll

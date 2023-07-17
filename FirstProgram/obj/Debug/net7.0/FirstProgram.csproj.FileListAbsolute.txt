@@ -1,0 +1,15 @@
+/Users/mawhinneym/Projects/C#Beginner/FirstProgram/bin/Debug/net7.0/FirstProgram
+/Users/mawhinneym/Projects/C#Beginner/FirstProgram/bin/Debug/net7.0/FirstProgram.deps.json
+/Users/mawhinneym/Projects/C#Beginner/FirstProgram/bin/Debug/net7.0/FirstProgram.runtimeconfig.json
+/Users/mawhinneym/Projects/C#Beginner/FirstProgram/bin/Debug/net7.0/FirstProgram.dll
+/Users/mawhinneym/Projects/C#Beginner/FirstProgram/bin/Debug/net7.0/FirstProgram.pdb
+/Users/mawhinneym/Projects/C#Beginner/FirstProgram/obj/Debug/net7.0/FirstProgram.csproj.AssemblyReference.cache
+/Users/mawhinneym/Projects/C#Beginner/FirstProgram/obj/Debug/net7.0/FirstProgram.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mawhinneym/Projects/C#Beginner/FirstProgram/obj/Debug/net7.0/FirstProgram.AssemblyInfoInputs.cache
+/Users/mawhinneym/Projects/C#Beginner/FirstProgram/obj/Debug/net7.0/FirstProgram.AssemblyInfo.cs
+/Users/mawhinneym/Projects/C#Beginner/FirstProgram/obj/Debug/net7.0/FirstProgram.csproj.CoreCompileInputs.cache
+/Users/mawhinneym/Projects/C#Beginner/FirstProgram/obj/Debug/net7.0/FirstProgram.dll
+/Users/mawhinneym/Projects/C#Beginner/FirstProgram/obj/Debug/net7.0/refint/FirstProgram.dll
+/Users/mawhinneym/Projects/C#Beginner/FirstProgram/obj/Debug/net7.0/FirstProgram.pdb
+/Users/mawhinneym/Projects/C#Beginner/FirstProgram/obj/Debug/net7.0/FirstProgram.genruntimeconfig.cache
+/Users/mawhinneym/Projects/C#Beginner/FirstProgram/obj/Debug/net7.0/ref/FirstProgram.dll

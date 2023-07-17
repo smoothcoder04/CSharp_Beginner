@@ -1,0 +1,15 @@
+/Users/mawhinneym/Projects/C#Beginner/Structs_Beginner/obj/Debug/net7.0/Structs_Beginner.csproj.AssemblyReference.cache
+/Users/mawhinneym/Projects/C#Beginner/Structs_Beginner/obj/Debug/net7.0/Structs_Beginner.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mawhinneym/Projects/C#Beginner/Structs_Beginner/obj/Debug/net7.0/Structs_Beginner.AssemblyInfoInputs.cache
+/Users/mawhinneym/Projects/C#Beginner/Structs_Beginner/obj/Debug/net7.0/Structs_Beginner.AssemblyInfo.cs
+/Users/mawhinneym/Projects/C#Beginner/Structs_Beginner/obj/Debug/net7.0/Structs_Beginner.csproj.CoreCompileInputs.cache
+/Users/mawhinneym/Projects/C#Beginner/Structs_Beginner/bin/Debug/net7.0/Structs_Beginner
+/Users/mawhinneym/Projects/C#Beginner/Structs_Beginner/bin/Debug/net7.0/Structs_Beginner.deps.json
+/Users/mawhinneym/Projects/C#Beginner/Structs_Beginner/bin/Debug/net7.0/Structs_Beginner.runtimeconfig.json
+/Users/mawhinneym/Projects/C#Beginner/Structs_Beginner/bin/Debug/net7.0/Structs_Beginner.dll
+/Users/mawhinneym/Projects/C#Beginner/Structs_Beginner/bin/Debug/net7.0/Structs_Beginner.pdb
+/Users/mawhinneym/Projects/C#Beginner/Structs_Beginner/obj/Debug/net7.0/Structs_Beginner.dll
+/Users/mawhinneym/Projects/C#Beginner/Structs_Beginner/obj/Debug/net7.0/refint/Structs_Beginner.dll
+/Users/mawhinneym/Projects/C#Beginner/Structs_Beginner/obj/Debug/net7.0/Structs_Beginner.pdb
+/Users/mawhinneym/Projects/C#Beginner/Structs_Beginner/obj/Debug/net7.0/Structs_Beginner.genruntimeconfig.cache
+/Users/mawhinneym/Projects/C#Beginner/Structs_Beginner/obj/Debug/net7.0/ref/Structs_Beginner.dll

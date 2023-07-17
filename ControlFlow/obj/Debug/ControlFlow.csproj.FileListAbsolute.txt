@@ -1,6 +1,0 @@
-/Users/mawhinneym/Projects/ControlFlow/bin/Debug/ControlFlow.exe
-/Users/mawhinneym/Projects/ControlFlow/bin/Debug/ControlFlow.pdb
-/Users/mawhinneym/Projects/ControlFlow/obj/Debug/ControlFlow.csprojAssemblyReference.cache
-/Users/mawhinneym/Projects/ControlFlow/obj/Debug/ControlFlow.csproj.CoreCompileInputs.cache
-/Users/mawhinneym/Projects/ControlFlow/obj/Debug/ControlFlow.exe
-/Users/mawhinneym/Projects/ControlFlow/obj/Debug/ControlFlow.pdb

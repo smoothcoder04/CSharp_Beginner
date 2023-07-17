@@ -1,0 +1,15 @@
+/Users/mawhinneym/Projects/C#Beginner/Constraints_Beginner/obj/Debug/net7.0/Constraints_Beginner.csproj.AssemblyReference.cache
+/Users/mawhinneym/Projects/C#Beginner/Constraints_Beginner/obj/Debug/net7.0/Constraints_Beginner.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mawhinneym/Projects/C#Beginner/Constraints_Beginner/obj/Debug/net7.0/Constraints_Beginner.AssemblyInfoInputs.cache
+/Users/mawhinneym/Projects/C#Beginner/Constraints_Beginner/obj/Debug/net7.0/Constraints_Beginner.AssemblyInfo.cs
+/Users/mawhinneym/Projects/C#Beginner/Constraints_Beginner/obj/Debug/net7.0/Constraints_Beginner.csproj.CoreCompileInputs.cache
+/Users/mawhinneym/Projects/C#Beginner/Constraints_Beginner/bin/Debug/net7.0/Constraints_Beginner
+/Users/mawhinneym/Projects/C#Beginner/Constraints_Beginner/bin/Debug/net7.0/Constraints_Beginner.deps.json
+/Users/mawhinneym/Projects/C#Beginner/Constraints_Beginner/bin/Debug/net7.0/Constraints_Beginner.runtimeconfig.json
+/Users/mawhinneym/Projects/C#Beginner/Constraints_Beginner/bin/Debug/net7.0/Constraints_Beginner.dll
+/Users/mawhinneym/Projects/C#Beginner/Constraints_Beginner/bin/Debug/net7.0/Constraints_Beginner.pdb
+/Users/mawhinneym/Projects/C#Beginner/Constraints_Beginner/obj/Debug/net7.0/Constraints_Beginner.dll
+/Users/mawhinneym/Projects/C#Beginner/Constraints_Beginner/obj/Debug/net7.0/refint/Constraints_Beginner.dll
+/Users/mawhinneym/Projects/C#Beginner/Constraints_Beginner/obj/Debug/net7.0/Constraints_Beginner.pdb
+/Users/mawhinneym/Projects/C#Beginner/Constraints_Beginner/obj/Debug/net7.0/Constraints_Beginner.genruntimeconfig.cache
+/Users/mawhinneym/Projects/C#Beginner/Constraints_Beginner/obj/Debug/net7.0/ref/Constraints_Beginner.dll

@@ -1,0 +1,15 @@
+/Users/mawhinneym/Projects/C#Beginner/EventHandler_Delegate/obj/Debug/net7.0/EventHandler_Delegate.csproj.AssemblyReference.cache
+/Users/mawhinneym/Projects/C#Beginner/EventHandler_Delegate/obj/Debug/net7.0/EventHandler_Delegate.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mawhinneym/Projects/C#Beginner/EventHandler_Delegate/obj/Debug/net7.0/EventHandler_Delegate.AssemblyInfoInputs.cache
+/Users/mawhinneym/Projects/C#Beginner/EventHandler_Delegate/obj/Debug/net7.0/EventHandler_Delegate.AssemblyInfo.cs
+/Users/mawhinneym/Projects/C#Beginner/EventHandler_Delegate/obj/Debug/net7.0/EventHandler_Delegate.csproj.CoreCompileInputs.cache
+/Users/mawhinneym/Projects/C#Beginner/EventHandler_Delegate/bin/Debug/net7.0/EventHandler_Delegate
+/Users/mawhinneym/Projects/C#Beginner/EventHandler_Delegate/bin/Debug/net7.0/EventHandler_Delegate.deps.json
+/Users/mawhinneym/Projects/C#Beginner/EventHandler_Delegate/bin/Debug/net7.0/EventHandler_Delegate.runtimeconfig.json
+/Users/mawhinneym/Projects/C#Beginner/EventHandler_Delegate/bin/Debug/net7.0/EventHandler_Delegate.dll
+/Users/mawhinneym/Projects/C#Beginner/EventHandler_Delegate/bin/Debug/net7.0/EventHandler_Delegate.pdb
+/Users/mawhinneym/Projects/C#Beginner/EventHandler_Delegate/obj/Debug/net7.0/EventHandler_Delegate.dll
+/Users/mawhinneym/Projects/C#Beginner/EventHandler_Delegate/obj/Debug/net7.0/refint/EventHandler_Delegate.dll
+/Users/mawhinneym/Projects/C#Beginner/EventHandler_Delegate/obj/Debug/net7.0/EventHandler_Delegate.pdb
+/Users/mawhinneym/Projects/C#Beginner/EventHandler_Delegate/obj/Debug/net7.0/EventHandler_Delegate.genruntimeconfig.cache
+/Users/mawhinneym/Projects/C#Beginner/EventHandler_Delegate/obj/Debug/net7.0/ref/EventHandler_Delegate.dll
