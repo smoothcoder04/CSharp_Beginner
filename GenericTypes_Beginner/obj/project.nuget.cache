@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "3Mq6mWWpLFEVEN/kA1NhL9mzbTl0X23L9KuqR1VUfZwk3reln9yfLiGNnP/y8lpMjHPxQIo3jSNIo1pK7dU8QQ==",
+  "dgSpecHash": "0CBFh3VlPuAD6Ai+M+rB2VmM/Y2CJ8GQPRrFP5k7AvHSYj3woU33KrItoANkKZgYwfwHathmLCP1eUzYOB+bYw==",
   "success": true,
-  "projectFilePath": "/Users/mawhinneym/Projects/C#Beginner/GenericTypes_Beginner/GenericTypes_Beginner.csproj",
+  "projectFilePath": "/Users/mawhinneym/Projects/C#Beginner/CSharp_Beginner/GenericTypes_Beginner/GenericTypes_Beginner.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

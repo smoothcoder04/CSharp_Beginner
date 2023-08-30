@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/mawhinneym/Projects/C#Beginner/Delegates_Beginner/Delegates_Beginner.csproj": {}
+    "/Users/mawhinneym/Projects/C#Beginner/CSharp_Beginner/Delegates_Beginner/Delegates_Beginner.csproj": {}
   },
   "projects": {
-    "/Users/mawhinneym/Projects/C#Beginner/Delegates_Beginner/Delegates_Beginner.csproj": {
+    "/Users/mawhinneym/Projects/C#Beginner/CSharp_Beginner/Delegates_Beginner/Delegates_Beginner.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/mawhinneym/Projects/C#Beginner/Delegates_Beginner/Delegates_Beginner.csproj",
+        "projectUniqueName": "/Users/mawhinneym/Projects/C#Beginner/CSharp_Beginner/Delegates_Beginner/Delegates_Beginner.csproj",
         "projectName": "Delegates_Beginner",
-        "projectPath": "/Users/mawhinneym/Projects/C#Beginner/Delegates_Beginner/Delegates_Beginner.csproj",
+        "projectPath": "/Users/mawhinneym/Projects/C#Beginner/CSharp_Beginner/Delegates_Beginner/Delegates_Beginner.csproj",
         "packagesPath": "/Users/mawhinneym/.nuget/packages/",
-        "outputPath": "/Users/mawhinneym/Projects/C#Beginner/Delegates_Beginner/obj/",
+        "outputPath": "/Users/mawhinneym/Projects/C#Beginner/CSharp_Beginner/Delegates_Beginner/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/mawhinneym/.nuget/NuGet/NuGet.Config"
@@ -53,7 +53,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.101/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.306/RuntimeIdentifierGraph.json"
         }
       }
     }

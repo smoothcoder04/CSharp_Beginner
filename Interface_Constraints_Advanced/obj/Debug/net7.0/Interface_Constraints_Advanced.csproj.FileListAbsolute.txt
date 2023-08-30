@@ -1,0 +1,15 @@
+/Users/mawhinneym/Projects/C#Beginner/Interface_Constraints_Advanced/obj/Debug/net7.0/Interface_Constraints_Advanced.csproj.AssemblyReference.cache
+/Users/mawhinneym/Projects/C#Beginner/Interface_Constraints_Advanced/obj/Debug/net7.0/Interface_Constraints_Advanced.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mawhinneym/Projects/C#Beginner/Interface_Constraints_Advanced/obj/Debug/net7.0/Interface_Constraints_Advanced.AssemblyInfoInputs.cache
+/Users/mawhinneym/Projects/C#Beginner/Interface_Constraints_Advanced/obj/Debug/net7.0/Interface_Constraints_Advanced.AssemblyInfo.cs
+/Users/mawhinneym/Projects/C#Beginner/Interface_Constraints_Advanced/obj/Debug/net7.0/Interface_Constraints_Advanced.csproj.CoreCompileInputs.cache
+/Users/mawhinneym/Projects/C#Beginner/Interface_Constraints_Advanced/bin/Debug/net7.0/Interface_Constraints_Advanced
+/Users/mawhinneym/Projects/C#Beginner/Interface_Constraints_Advanced/bin/Debug/net7.0/Interface_Constraints_Advanced.deps.json
+/Users/mawhinneym/Projects/C#Beginner/Interface_Constraints_Advanced/bin/Debug/net7.0/Interface_Constraints_Advanced.runtimeconfig.json
+/Users/mawhinneym/Projects/C#Beginner/Interface_Constraints_Advanced/bin/Debug/net7.0/Interface_Constraints_Advanced.dll
+/Users/mawhinneym/Projects/C#Beginner/Interface_Constraints_Advanced/bin/Debug/net7.0/Interface_Constraints_Advanced.pdb
+/Users/mawhinneym/Projects/C#Beginner/Interface_Constraints_Advanced/obj/Debug/net7.0/Interface_Constraints_Advanced.dll
+/Users/mawhinneym/Projects/C#Beginner/Interface_Constraints_Advanced/obj/Debug/net7.0/refint/Interface_Constraints_Advanced.dll
+/Users/mawhinneym/Projects/C#Beginner/Interface_Constraints_Advanced/obj/Debug/net7.0/Interface_Constraints_Advanced.pdb
+/Users/mawhinneym/Projects/C#Beginner/Interface_Constraints_Advanced/obj/Debug/net7.0/Interface_Constraints_Advanced.genruntimeconfig.cache
+/Users/mawhinneym/Projects/C#Beginner/Interface_Constraints_Advanced/obj/Debug/net7.0/ref/Interface_Constraints_Advanced.dll

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "d5TdBJokxhNTao0/GPqeTlE2nEoDowdomnEZO5lL4VOCf3U1HSvUoHCX+JzoWZGJxYQLQAheHhTwQLgy5ZmfpQ==",
+  "dgSpecHash": "LCm/WcpR2470y2cwdC8b76MfNH5DEB7dJrO8EUSoLb7bk6WMiF60NZCC6b5NTdaBhCpNPHJD5oTdB/Q9sz79jw==",
   "success": true,
-  "projectFilePath": "/Users/mawhinneym/Projects/C#Beginner/EventHandler_Delegate/EventHandler_Delegate.csproj",
+  "projectFilePath": "/Users/mawhinneym/Projects/C#Beginner/CSharp_Beginner/EventHandler_Delegate/EventHandler_Delegate.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

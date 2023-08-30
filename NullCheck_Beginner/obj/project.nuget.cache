@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "gJZ8SDYyBoYXtGeIFODS715GZ0xGIguNB+kwTl2JKL7eUrgtbrCn5brZgD23SrGQgc7gt3vTml4kYIvzGky9MQ==",
+  "dgSpecHash": "cr06iW+5vG0uDTuPc29Si0G5px2BnsBAKI8/ot2+ED+EK5kGsk8gBAslPM7nZ8KUy7CdKHCGUJ0Fn4FI0uwcqQ==",
   "success": true,
-  "projectFilePath": "/Users/mawhinneym/Projects/C#Beginner/NullCheck_Beginner/NullCheck_Beginner.csproj",
+  "projectFilePath": "/Users/mawhinneym/Projects/C#Beginner/CSharp_Beginner/NullCheck_Beginner/NullCheck_Beginner.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

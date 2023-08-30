@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "Generic_Interface_Beginner/1.0.0": {
+        "runtime": {
+          "Generic_Interface_Beginner.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Generic_Interface_Beginner/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

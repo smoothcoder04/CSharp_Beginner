@@ -1,0 +1,15 @@
+/Users/mawhinneym/Projects/C#Beginner/CSharp_Beginner/Interface_Advanced/obj/Debug/net7.0/Interface_Advanced.csproj.AssemblyReference.cache
+/Users/mawhinneym/Projects/C#Beginner/CSharp_Beginner/Interface_Advanced/obj/Debug/net7.0/Interface_Advanced.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mawhinneym/Projects/C#Beginner/CSharp_Beginner/Interface_Advanced/obj/Debug/net7.0/Interface_Advanced.AssemblyInfoInputs.cache
+/Users/mawhinneym/Projects/C#Beginner/CSharp_Beginner/Interface_Advanced/obj/Debug/net7.0/Interface_Advanced.AssemblyInfo.cs
+/Users/mawhinneym/Projects/C#Beginner/CSharp_Beginner/Interface_Advanced/obj/Debug/net7.0/Interface_Advanced.csproj.CoreCompileInputs.cache
+/Users/mawhinneym/Projects/C#Beginner/CSharp_Beginner/Interface_Advanced/bin/Debug/net7.0/Interface_Advanced
+/Users/mawhinneym/Projects/C#Beginner/CSharp_Beginner/Interface_Advanced/bin/Debug/net7.0/Interface_Advanced.deps.json
+/Users/mawhinneym/Projects/C#Beginner/CSharp_Beginner/Interface_Advanced/bin/Debug/net7.0/Interface_Advanced.runtimeconfig.json
+/Users/mawhinneym/Projects/C#Beginner/CSharp_Beginner/Interface_Advanced/bin/Debug/net7.0/Interface_Advanced.dll
+/Users/mawhinneym/Projects/C#Beginner/CSharp_Beginner/Interface_Advanced/bin/Debug/net7.0/Interface_Advanced.pdb
+/Users/mawhinneym/Projects/C#Beginner/CSharp_Beginner/Interface_Advanced/obj/Debug/net7.0/Interface_Advanced.dll
+/Users/mawhinneym/Projects/C#Beginner/CSharp_Beginner/Interface_Advanced/obj/Debug/net7.0/refint/Interface_Advanced.dll
+/Users/mawhinneym/Projects/C#Beginner/CSharp_Beginner/Interface_Advanced/obj/Debug/net7.0/Interface_Advanced.pdb
+/Users/mawhinneym/Projects/C#Beginner/CSharp_Beginner/Interface_Advanced/obj/Debug/net7.0/Interface_Advanced.genruntimeconfig.cache
+/Users/mawhinneym/Projects/C#Beginner/CSharp_Beginner/Interface_Advanced/obj/Debug/net7.0/ref/Interface_Advanced.dll

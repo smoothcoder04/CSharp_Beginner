@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "+xG4yQ0ed8XGcAw1dGPY91UnAR5kmcZzmOgH68A4b/FaNz/1LPZ/S6QxqXDUT5HGLmjMkm9cMGF5LCUaxKICFg==",
+  "dgSpecHash": "VFNSVoUuatcQextIqpmn1jXqkkXHcYJtsFXYBxLYdXZcfAKQqMKqcUg8mUPHS5r7961WV2eH5Fkk5RXljgdkEw==",
   "success": true,
-  "projectFilePath": "/Users/mawhinneym/Projects/C#Beginner/OperatorOverloading_Beginner/OperatorOverloading_Beginner.csproj",
+  "projectFilePath": "/Users/mawhinneym/Projects/C#Beginner/CSharp_Beginner/OperatorOverloading_Beginner/OperatorOverloading_Beginner.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

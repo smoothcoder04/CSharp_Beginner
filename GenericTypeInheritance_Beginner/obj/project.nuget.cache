@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "IE1LdTIoULQChw/0CAlo8gCz0lj9GjNkrkiBjrQK5RxkT7I82+1hRxp9dJG1EV+zCKSKc5uryaoeOeZA1y2acg==",
+  "dgSpecHash": "qi1OcpV9OMsEyf9TY++z5f4dpaQs2xpFw/BAIm1ktzOO6nJPjm7O3CHWlpV+8R8tXewSbzyGUQxRuj1kUsKPsw==",
   "success": true,
-  "projectFilePath": "/Users/mawhinneym/Projects/C#Beginner/GenericTypeInheritance_Beginner/GenericTypeInheritance_Beginner.csproj",
+  "projectFilePath": "/Users/mawhinneym/Projects/C#Beginner/CSharp_Beginner/GenericTypeInheritance_Beginner/GenericTypeInheritance_Beginner.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

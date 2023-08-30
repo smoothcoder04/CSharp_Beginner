@@ -1,0 +1,15 @@
+/Users/mawhinneym/Projects/C#Beginner/Interface_Inheritance/obj/Debug/net7.0/Interface_Inheritance.csproj.AssemblyReference.cache
+/Users/mawhinneym/Projects/C#Beginner/Interface_Inheritance/obj/Debug/net7.0/Interface_Inheritance.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mawhinneym/Projects/C#Beginner/Interface_Inheritance/obj/Debug/net7.0/Interface_Inheritance.AssemblyInfoInputs.cache
+/Users/mawhinneym/Projects/C#Beginner/Interface_Inheritance/obj/Debug/net7.0/Interface_Inheritance.AssemblyInfo.cs
+/Users/mawhinneym/Projects/C#Beginner/Interface_Inheritance/obj/Debug/net7.0/Interface_Inheritance.csproj.CoreCompileInputs.cache
+/Users/mawhinneym/Projects/C#Beginner/Interface_Inheritance/bin/Debug/net7.0/Interface_Inheritance
+/Users/mawhinneym/Projects/C#Beginner/Interface_Inheritance/bin/Debug/net7.0/Interface_Inheritance.deps.json
+/Users/mawhinneym/Projects/C#Beginner/Interface_Inheritance/bin/Debug/net7.0/Interface_Inheritance.runtimeconfig.json
+/Users/mawhinneym/Projects/C#Beginner/Interface_Inheritance/bin/Debug/net7.0/Interface_Inheritance.dll
+/Users/mawhinneym/Projects/C#Beginner/Interface_Inheritance/bin/Debug/net7.0/Interface_Inheritance.pdb
+/Users/mawhinneym/Projects/C#Beginner/Interface_Inheritance/obj/Debug/net7.0/Interface_Inheritance.dll
+/Users/mawhinneym/Projects/C#Beginner/Interface_Inheritance/obj/Debug/net7.0/refint/Interface_Inheritance.dll
+/Users/mawhinneym/Projects/C#Beginner/Interface_Inheritance/obj/Debug/net7.0/Interface_Inheritance.pdb
+/Users/mawhinneym/Projects/C#Beginner/Interface_Inheritance/obj/Debug/net7.0/Interface_Inheritance.genruntimeconfig.cache
+/Users/mawhinneym/Projects/C#Beginner/Interface_Inheritance/obj/Debug/net7.0/ref/Interface_Inheritance.dll

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "cMSf9Tu3WrZ0O83C+glwFolxm+KY7ynzOZTyQvHpmb1fbGIlZx9S5uz2AQWUi6V5ZXFEdJoopee6uQD7oxD2Vg==",
+  "dgSpecHash": "q5lIp7cj6F/GHg+ws+CZyPJeHJtIvddRhF0A40UV+4R7yJ35gMGVpkJKR2TdpmnAzg/rCailuGehEozS7X8GQA==",
   "success": true,
-  "projectFilePath": "/Users/mawhinneym/Projects/C#Beginner/ReadOnlyFields_Beginner/ReadOnlyFields_Beginner.csproj",
+  "projectFilePath": "/Users/mawhinneym/Projects/C#Beginner/CSharp_Beginner/ReadOnlyFields_Beginner/ReadOnlyFields_Beginner.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
