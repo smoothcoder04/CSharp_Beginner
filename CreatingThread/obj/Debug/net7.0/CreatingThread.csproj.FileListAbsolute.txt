@@ -1,0 +1,15 @@
+/Users/mawhinneym/Projects/C#Beginner/CSharp_Beginner/CreatingThread/obj/Debug/net7.0/CreatingThread.csproj.AssemblyReference.cache
+/Users/mawhinneym/Projects/C#Beginner/CSharp_Beginner/CreatingThread/obj/Debug/net7.0/CreatingThread.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mawhinneym/Projects/C#Beginner/CSharp_Beginner/CreatingThread/obj/Debug/net7.0/CreatingThread.AssemblyInfoInputs.cache
+/Users/mawhinneym/Projects/C#Beginner/CSharp_Beginner/CreatingThread/obj/Debug/net7.0/CreatingThread.AssemblyInfo.cs
+/Users/mawhinneym/Projects/C#Beginner/CSharp_Beginner/CreatingThread/obj/Debug/net7.0/CreatingThread.csproj.CoreCompileInputs.cache
+/Users/mawhinneym/Projects/C#Beginner/CSharp_Beginner/CreatingThread/bin/Debug/net7.0/CreatingThread
+/Users/mawhinneym/Projects/C#Beginner/CSharp_Beginner/CreatingThread/bin/Debug/net7.0/CreatingThread.deps.json
+/Users/mawhinneym/Projects/C#Beginner/CSharp_Beginner/CreatingThread/bin/Debug/net7.0/CreatingThread.runtimeconfig.json
+/Users/mawhinneym/Projects/C#Beginner/CSharp_Beginner/CreatingThread/bin/Debug/net7.0/CreatingThread.dll
+/Users/mawhinneym/Projects/C#Beginner/CSharp_Beginner/CreatingThread/bin/Debug/net7.0/CreatingThread.pdb
+/Users/mawhinneym/Projects/C#Beginner/CSharp_Beginner/CreatingThread/obj/Debug/net7.0/CreatingThread.dll
+/Users/mawhinneym/Projects/C#Beginner/CSharp_Beginner/CreatingThread/obj/Debug/net7.0/refint/CreatingThread.dll
+/Users/mawhinneym/Projects/C#Beginner/CSharp_Beginner/CreatingThread/obj/Debug/net7.0/CreatingThread.pdb
+/Users/mawhinneym/Projects/C#Beginner/CSharp_Beginner/CreatingThread/obj/Debug/net7.0/CreatingThread.genruntimeconfig.cache
+/Users/mawhinneym/Projects/C#Beginner/CSharp_Beginner/CreatingThread/obj/Debug/net7.0/ref/CreatingThread.dll

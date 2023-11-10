@@ -1,0 +1,15 @@
+/Users/mawhinneym/Projects/C#Beginner/CSharp_Beginner/LINQ_Deferred_Beginner/bin/Debug/net7.0/LINQ_Deferred_Beginner
+/Users/mawhinneym/Projects/C#Beginner/CSharp_Beginner/LINQ_Deferred_Beginner/bin/Debug/net7.0/LINQ_Deferred_Beginner.deps.json
+/Users/mawhinneym/Projects/C#Beginner/CSharp_Beginner/LINQ_Deferred_Beginner/bin/Debug/net7.0/LINQ_Deferred_Beginner.runtimeconfig.json
+/Users/mawhinneym/Projects/C#Beginner/CSharp_Beginner/LINQ_Deferred_Beginner/bin/Debug/net7.0/LINQ_Deferred_Beginner.dll
+/Users/mawhinneym/Projects/C#Beginner/CSharp_Beginner/LINQ_Deferred_Beginner/bin/Debug/net7.0/LINQ_Deferred_Beginner.pdb
+/Users/mawhinneym/Projects/C#Beginner/CSharp_Beginner/LINQ_Deferred_Beginner/obj/Debug/net7.0/LINQ_Deferred_Beginner.csproj.AssemblyReference.cache
+/Users/mawhinneym/Projects/C#Beginner/CSharp_Beginner/LINQ_Deferred_Beginner/obj/Debug/net7.0/LINQ_Deferred_Beginner.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mawhinneym/Projects/C#Beginner/CSharp_Beginner/LINQ_Deferred_Beginner/obj/Debug/net7.0/LINQ_Deferred_Beginner.AssemblyInfoInputs.cache
+/Users/mawhinneym/Projects/C#Beginner/CSharp_Beginner/LINQ_Deferred_Beginner/obj/Debug/net7.0/LINQ_Deferred_Beginner.AssemblyInfo.cs
+/Users/mawhinneym/Projects/C#Beginner/CSharp_Beginner/LINQ_Deferred_Beginner/obj/Debug/net7.0/LINQ_Deferred_Beginner.csproj.CoreCompileInputs.cache
+/Users/mawhinneym/Projects/C#Beginner/CSharp_Beginner/LINQ_Deferred_Beginner/obj/Debug/net7.0/LINQ_Deferred_Beginner.dll
+/Users/mawhinneym/Projects/C#Beginner/CSharp_Beginner/LINQ_Deferred_Beginner/obj/Debug/net7.0/refint/LINQ_Deferred_Beginner.dll
+/Users/mawhinneym/Projects/C#Beginner/CSharp_Beginner/LINQ_Deferred_Beginner/obj/Debug/net7.0/LINQ_Deferred_Beginner.pdb
+/Users/mawhinneym/Projects/C#Beginner/CSharp_Beginner/LINQ_Deferred_Beginner/obj/Debug/net7.0/LINQ_Deferred_Beginner.genruntimeconfig.cache
+/Users/mawhinneym/Projects/C#Beginner/CSharp_Beginner/LINQ_Deferred_Beginner/obj/Debug/net7.0/ref/LINQ_Deferred_Beginner.dll

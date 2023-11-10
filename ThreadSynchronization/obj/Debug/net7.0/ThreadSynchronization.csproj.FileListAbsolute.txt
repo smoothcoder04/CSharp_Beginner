@@ -1,0 +1,15 @@
+/Users/mawhinneym/Projects/C#Beginner/CSharp_Beginner/ThreadSynchronization/obj/Debug/net7.0/ThreadSynchronization.csproj.AssemblyReference.cache
+/Users/mawhinneym/Projects/C#Beginner/CSharp_Beginner/ThreadSynchronization/obj/Debug/net7.0/ThreadSynchronization.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mawhinneym/Projects/C#Beginner/CSharp_Beginner/ThreadSynchronization/obj/Debug/net7.0/ThreadSynchronization.AssemblyInfoInputs.cache
+/Users/mawhinneym/Projects/C#Beginner/CSharp_Beginner/ThreadSynchronization/obj/Debug/net7.0/ThreadSynchronization.AssemblyInfo.cs
+/Users/mawhinneym/Projects/C#Beginner/CSharp_Beginner/ThreadSynchronization/obj/Debug/net7.0/ThreadSynchronization.csproj.CoreCompileInputs.cache
+/Users/mawhinneym/Projects/C#Beginner/CSharp_Beginner/ThreadSynchronization/bin/Debug/net7.0/ThreadSynchronization
+/Users/mawhinneym/Projects/C#Beginner/CSharp_Beginner/ThreadSynchronization/bin/Debug/net7.0/ThreadSynchronization.deps.json
+/Users/mawhinneym/Projects/C#Beginner/CSharp_Beginner/ThreadSynchronization/bin/Debug/net7.0/ThreadSynchronization.runtimeconfig.json
+/Users/mawhinneym/Projects/C#Beginner/CSharp_Beginner/ThreadSynchronization/bin/Debug/net7.0/ThreadSynchronization.dll
+/Users/mawhinneym/Projects/C#Beginner/CSharp_Beginner/ThreadSynchronization/bin/Debug/net7.0/ThreadSynchronization.pdb
+/Users/mawhinneym/Projects/C#Beginner/CSharp_Beginner/ThreadSynchronization/obj/Debug/net7.0/ThreadSynchronization.dll
+/Users/mawhinneym/Projects/C#Beginner/CSharp_Beginner/ThreadSynchronization/obj/Debug/net7.0/refint/ThreadSynchronization.dll
+/Users/mawhinneym/Projects/C#Beginner/CSharp_Beginner/ThreadSynchronization/obj/Debug/net7.0/ThreadSynchronization.pdb
+/Users/mawhinneym/Projects/C#Beginner/CSharp_Beginner/ThreadSynchronization/obj/Debug/net7.0/ThreadSynchronization.genruntimeconfig.cache
+/Users/mawhinneym/Projects/C#Beginner/CSharp_Beginner/ThreadSynchronization/obj/Debug/net7.0/ref/ThreadSynchronization.dll

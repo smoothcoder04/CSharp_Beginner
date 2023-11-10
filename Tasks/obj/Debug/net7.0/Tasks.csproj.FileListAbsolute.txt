@@ -1,0 +1,15 @@
+/Users/mawhinneym/Projects/C#Beginner/CSharp_Beginner/Tasks/obj/Debug/net7.0/Tasks.csproj.AssemblyReference.cache
+/Users/mawhinneym/Projects/C#Beginner/CSharp_Beginner/Tasks/obj/Debug/net7.0/Tasks.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mawhinneym/Projects/C#Beginner/CSharp_Beginner/Tasks/obj/Debug/net7.0/Tasks.AssemblyInfoInputs.cache
+/Users/mawhinneym/Projects/C#Beginner/CSharp_Beginner/Tasks/obj/Debug/net7.0/Tasks.AssemblyInfo.cs
+/Users/mawhinneym/Projects/C#Beginner/CSharp_Beginner/Tasks/obj/Debug/net7.0/Tasks.csproj.CoreCompileInputs.cache
+/Users/mawhinneym/Projects/C#Beginner/CSharp_Beginner/Tasks/bin/Debug/net7.0/Tasks
+/Users/mawhinneym/Projects/C#Beginner/CSharp_Beginner/Tasks/bin/Debug/net7.0/Tasks.deps.json
+/Users/mawhinneym/Projects/C#Beginner/CSharp_Beginner/Tasks/bin/Debug/net7.0/Tasks.runtimeconfig.json
+/Users/mawhinneym/Projects/C#Beginner/CSharp_Beginner/Tasks/bin/Debug/net7.0/Tasks.dll
+/Users/mawhinneym/Projects/C#Beginner/CSharp_Beginner/Tasks/bin/Debug/net7.0/Tasks.pdb
+/Users/mawhinneym/Projects/C#Beginner/CSharp_Beginner/Tasks/obj/Debug/net7.0/Tasks.dll
+/Users/mawhinneym/Projects/C#Beginner/CSharp_Beginner/Tasks/obj/Debug/net7.0/refint/Tasks.dll
+/Users/mawhinneym/Projects/C#Beginner/CSharp_Beginner/Tasks/obj/Debug/net7.0/Tasks.pdb
+/Users/mawhinneym/Projects/C#Beginner/CSharp_Beginner/Tasks/obj/Debug/net7.0/Tasks.genruntimeconfig.cache
+/Users/mawhinneym/Projects/C#Beginner/CSharp_Beginner/Tasks/obj/Debug/net7.0/ref/Tasks.dll

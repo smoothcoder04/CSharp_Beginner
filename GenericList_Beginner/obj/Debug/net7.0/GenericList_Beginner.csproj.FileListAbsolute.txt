@@ -1,0 +1,15 @@
+/Users/mawhinneym/Projects/C#Beginner/CSharp_Beginner/GenericList_Beginner/obj/Debug/net7.0/GenericList_Beginner.csproj.AssemblyReference.cache
+/Users/mawhinneym/Projects/C#Beginner/CSharp_Beginner/GenericList_Beginner/obj/Debug/net7.0/GenericList_Beginner.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mawhinneym/Projects/C#Beginner/CSharp_Beginner/GenericList_Beginner/obj/Debug/net7.0/GenericList_Beginner.AssemblyInfoInputs.cache
+/Users/mawhinneym/Projects/C#Beginner/CSharp_Beginner/GenericList_Beginner/obj/Debug/net7.0/GenericList_Beginner.AssemblyInfo.cs
+/Users/mawhinneym/Projects/C#Beginner/CSharp_Beginner/GenericList_Beginner/obj/Debug/net7.0/GenericList_Beginner.csproj.CoreCompileInputs.cache
+/Users/mawhinneym/Projects/C#Beginner/CSharp_Beginner/GenericList_Beginner/bin/Debug/net7.0/GenericList_Beginner
+/Users/mawhinneym/Projects/C#Beginner/CSharp_Beginner/GenericList_Beginner/bin/Debug/net7.0/GenericList_Beginner.deps.json
+/Users/mawhinneym/Projects/C#Beginner/CSharp_Beginner/GenericList_Beginner/bin/Debug/net7.0/GenericList_Beginner.runtimeconfig.json
+/Users/mawhinneym/Projects/C#Beginner/CSharp_Beginner/GenericList_Beginner/bin/Debug/net7.0/GenericList_Beginner.dll
+/Users/mawhinneym/Projects/C#Beginner/CSharp_Beginner/GenericList_Beginner/bin/Debug/net7.0/GenericList_Beginner.pdb
+/Users/mawhinneym/Projects/C#Beginner/CSharp_Beginner/GenericList_Beginner/obj/Debug/net7.0/GenericList_Beginner.dll
+/Users/mawhinneym/Projects/C#Beginner/CSharp_Beginner/GenericList_Beginner/obj/Debug/net7.0/refint/GenericList_Beginner.dll
+/Users/mawhinneym/Projects/C#Beginner/CSharp_Beginner/GenericList_Beginner/obj/Debug/net7.0/GenericList_Beginner.pdb
+/Users/mawhinneym/Projects/C#Beginner/CSharp_Beginner/GenericList_Beginner/obj/Debug/net7.0/GenericList_Beginner.genruntimeconfig.cache
+/Users/mawhinneym/Projects/C#Beginner/CSharp_Beginner/GenericList_Beginner/obj/Debug/net7.0/ref/GenericList_Beginner.dll

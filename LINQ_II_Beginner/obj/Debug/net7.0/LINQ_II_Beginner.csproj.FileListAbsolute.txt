@@ -1,0 +1,15 @@
+/Users/mawhinneym/Projects/C#Beginner/CSharp_Beginner/LINQ_II_Beginner/bin/Debug/net7.0/LINQ_II_Beginner
+/Users/mawhinneym/Projects/C#Beginner/CSharp_Beginner/LINQ_II_Beginner/bin/Debug/net7.0/LINQ_II_Beginner.deps.json
+/Users/mawhinneym/Projects/C#Beginner/CSharp_Beginner/LINQ_II_Beginner/bin/Debug/net7.0/LINQ_II_Beginner.runtimeconfig.json
+/Users/mawhinneym/Projects/C#Beginner/CSharp_Beginner/LINQ_II_Beginner/bin/Debug/net7.0/LINQ_II_Beginner.dll
+/Users/mawhinneym/Projects/C#Beginner/CSharp_Beginner/LINQ_II_Beginner/bin/Debug/net7.0/LINQ_II_Beginner.pdb
+/Users/mawhinneym/Projects/C#Beginner/CSharp_Beginner/LINQ_II_Beginner/obj/Debug/net7.0/LINQ_II_Beginner.csproj.AssemblyReference.cache
+/Users/mawhinneym/Projects/C#Beginner/CSharp_Beginner/LINQ_II_Beginner/obj/Debug/net7.0/LINQ_II_Beginner.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mawhinneym/Projects/C#Beginner/CSharp_Beginner/LINQ_II_Beginner/obj/Debug/net7.0/LINQ_II_Beginner.AssemblyInfoInputs.cache
+/Users/mawhinneym/Projects/C#Beginner/CSharp_Beginner/LINQ_II_Beginner/obj/Debug/net7.0/LINQ_II_Beginner.AssemblyInfo.cs
+/Users/mawhinneym/Projects/C#Beginner/CSharp_Beginner/LINQ_II_Beginner/obj/Debug/net7.0/LINQ_II_Beginner.csproj.CoreCompileInputs.cache
+/Users/mawhinneym/Projects/C#Beginner/CSharp_Beginner/LINQ_II_Beginner/obj/Debug/net7.0/LINQ_II_Beginner.dll
+/Users/mawhinneym/Projects/C#Beginner/CSharp_Beginner/LINQ_II_Beginner/obj/Debug/net7.0/refint/LINQ_II_Beginner.dll
+/Users/mawhinneym/Projects/C#Beginner/CSharp_Beginner/LINQ_II_Beginner/obj/Debug/net7.0/LINQ_II_Beginner.pdb
+/Users/mawhinneym/Projects/C#Beginner/CSharp_Beginner/LINQ_II_Beginner/obj/Debug/net7.0/LINQ_II_Beginner.genruntimeconfig.cache
+/Users/mawhinneym/Projects/C#Beginner/CSharp_Beginner/LINQ_II_Beginner/obj/Debug/net7.0/ref/LINQ_II_Beginner.dll

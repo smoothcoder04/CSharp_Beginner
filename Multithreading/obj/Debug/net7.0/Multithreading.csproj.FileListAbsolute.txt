@@ -1,0 +1,15 @@
+/Users/mawhinneym/Projects/C#Beginner/CSharp_Beginner/Multithreading/obj/Debug/net7.0/Multithreading.csproj.AssemblyReference.cache
+/Users/mawhinneym/Projects/C#Beginner/CSharp_Beginner/Multithreading/obj/Debug/net7.0/Multithreading.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mawhinneym/Projects/C#Beginner/CSharp_Beginner/Multithreading/obj/Debug/net7.0/Multithreading.AssemblyInfoInputs.cache
+/Users/mawhinneym/Projects/C#Beginner/CSharp_Beginner/Multithreading/obj/Debug/net7.0/Multithreading.AssemblyInfo.cs
+/Users/mawhinneym/Projects/C#Beginner/CSharp_Beginner/Multithreading/obj/Debug/net7.0/Multithreading.csproj.CoreCompileInputs.cache
+/Users/mawhinneym/Projects/C#Beginner/CSharp_Beginner/Multithreading/bin/Debug/net7.0/Multithreading
+/Users/mawhinneym/Projects/C#Beginner/CSharp_Beginner/Multithreading/bin/Debug/net7.0/Multithreading.deps.json
+/Users/mawhinneym/Projects/C#Beginner/CSharp_Beginner/Multithreading/bin/Debug/net7.0/Multithreading.runtimeconfig.json
+/Users/mawhinneym/Projects/C#Beginner/CSharp_Beginner/Multithreading/bin/Debug/net7.0/Multithreading.dll
+/Users/mawhinneym/Projects/C#Beginner/CSharp_Beginner/Multithreading/bin/Debug/net7.0/Multithreading.pdb
+/Users/mawhinneym/Projects/C#Beginner/CSharp_Beginner/Multithreading/obj/Debug/net7.0/Multithreading.dll
+/Users/mawhinneym/Projects/C#Beginner/CSharp_Beginner/Multithreading/obj/Debug/net7.0/refint/Multithreading.dll
+/Users/mawhinneym/Projects/C#Beginner/CSharp_Beginner/Multithreading/obj/Debug/net7.0/Multithreading.pdb
+/Users/mawhinneym/Projects/C#Beginner/CSharp_Beginner/Multithreading/obj/Debug/net7.0/Multithreading.genruntimeconfig.cache
+/Users/mawhinneym/Projects/C#Beginner/CSharp_Beginner/Multithreading/obj/Debug/net7.0/ref/Multithreading.dll

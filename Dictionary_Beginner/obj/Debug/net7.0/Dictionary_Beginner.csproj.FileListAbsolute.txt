@@ -1,0 +1,15 @@
+/Users/mawhinneym/Projects/C#Beginner/CSharp_Beginner/Dictionary_Beginner/obj/Debug/net7.0/Dictionary_Beginner.csproj.AssemblyReference.cache
+/Users/mawhinneym/Projects/C#Beginner/CSharp_Beginner/Dictionary_Beginner/obj/Debug/net7.0/Dictionary_Beginner.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mawhinneym/Projects/C#Beginner/CSharp_Beginner/Dictionary_Beginner/obj/Debug/net7.0/Dictionary_Beginner.AssemblyInfoInputs.cache
+/Users/mawhinneym/Projects/C#Beginner/CSharp_Beginner/Dictionary_Beginner/obj/Debug/net7.0/Dictionary_Beginner.AssemblyInfo.cs
+/Users/mawhinneym/Projects/C#Beginner/CSharp_Beginner/Dictionary_Beginner/obj/Debug/net7.0/Dictionary_Beginner.csproj.CoreCompileInputs.cache
+/Users/mawhinneym/Projects/C#Beginner/CSharp_Beginner/Dictionary_Beginner/bin/Debug/net7.0/Dictionary_Beginner
+/Users/mawhinneym/Projects/C#Beginner/CSharp_Beginner/Dictionary_Beginner/bin/Debug/net7.0/Dictionary_Beginner.deps.json
+/Users/mawhinneym/Projects/C#Beginner/CSharp_Beginner/Dictionary_Beginner/bin/Debug/net7.0/Dictionary_Beginner.runtimeconfig.json
+/Users/mawhinneym/Projects/C#Beginner/CSharp_Beginner/Dictionary_Beginner/bin/Debug/net7.0/Dictionary_Beginner.dll
+/Users/mawhinneym/Projects/C#Beginner/CSharp_Beginner/Dictionary_Beginner/bin/Debug/net7.0/Dictionary_Beginner.pdb
+/Users/mawhinneym/Projects/C#Beginner/CSharp_Beginner/Dictionary_Beginner/obj/Debug/net7.0/Dictionary_Beginner.dll
+/Users/mawhinneym/Projects/C#Beginner/CSharp_Beginner/Dictionary_Beginner/obj/Debug/net7.0/refint/Dictionary_Beginner.dll
+/Users/mawhinneym/Projects/C#Beginner/CSharp_Beginner/Dictionary_Beginner/obj/Debug/net7.0/Dictionary_Beginner.pdb
+/Users/mawhinneym/Projects/C#Beginner/CSharp_Beginner/Dictionary_Beginner/obj/Debug/net7.0/Dictionary_Beginner.genruntimeconfig.cache
+/Users/mawhinneym/Projects/C#Beginner/CSharp_Beginner/Dictionary_Beginner/obj/Debug/net7.0/ref/Dictionary_Beginner.dll
