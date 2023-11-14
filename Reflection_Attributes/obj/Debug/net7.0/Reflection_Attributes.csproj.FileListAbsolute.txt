@@ -1,0 +1,15 @@
+/Users/mawhinneym/Projects/C#Beginner/CSharp_Beginner/Reflection_Attributes/obj/Debug/net7.0/Reflection_Attributes.csproj.AssemblyReference.cache
+/Users/mawhinneym/Projects/C#Beginner/CSharp_Beginner/Reflection_Attributes/obj/Debug/net7.0/Reflection_Attributes.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mawhinneym/Projects/C#Beginner/CSharp_Beginner/Reflection_Attributes/obj/Debug/net7.0/Reflection_Attributes.AssemblyInfoInputs.cache
+/Users/mawhinneym/Projects/C#Beginner/CSharp_Beginner/Reflection_Attributes/obj/Debug/net7.0/Reflection_Attributes.AssemblyInfo.cs
+/Users/mawhinneym/Projects/C#Beginner/CSharp_Beginner/Reflection_Attributes/obj/Debug/net7.0/Reflection_Attributes.csproj.CoreCompileInputs.cache
+/Users/mawhinneym/Projects/C#Beginner/CSharp_Beginner/Reflection_Attributes/bin/Debug/net7.0/Reflection_Attributes
+/Users/mawhinneym/Projects/C#Beginner/CSharp_Beginner/Reflection_Attributes/bin/Debug/net7.0/Reflection_Attributes.deps.json
+/Users/mawhinneym/Projects/C#Beginner/CSharp_Beginner/Reflection_Attributes/bin/Debug/net7.0/Reflection_Attributes.runtimeconfig.json
+/Users/mawhinneym/Projects/C#Beginner/CSharp_Beginner/Reflection_Attributes/bin/Debug/net7.0/Reflection_Attributes.dll
+/Users/mawhinneym/Projects/C#Beginner/CSharp_Beginner/Reflection_Attributes/bin/Debug/net7.0/Reflection_Attributes.pdb
+/Users/mawhinneym/Projects/C#Beginner/CSharp_Beginner/Reflection_Attributes/obj/Debug/net7.0/Reflection_Attributes.dll
+/Users/mawhinneym/Projects/C#Beginner/CSharp_Beginner/Reflection_Attributes/obj/Debug/net7.0/refint/Reflection_Attributes.dll
+/Users/mawhinneym/Projects/C#Beginner/CSharp_Beginner/Reflection_Attributes/obj/Debug/net7.0/Reflection_Attributes.pdb
+/Users/mawhinneym/Projects/C#Beginner/CSharp_Beginner/Reflection_Attributes/obj/Debug/net7.0/Reflection_Attributes.genruntimeconfig.cache
+/Users/mawhinneym/Projects/C#Beginner/CSharp_Beginner/Reflection_Attributes/obj/Debug/net7.0/ref/Reflection_Attributes.dll
