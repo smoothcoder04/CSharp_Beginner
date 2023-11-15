@@ -1,0 +1,15 @@
+/Users/mawhinneym/Projects/C#Beginner/CSharp_Beginner/DynamicLanguageRuntime/bin/Debug/net7.0/DynamicLanguageRuntime
+/Users/mawhinneym/Projects/C#Beginner/CSharp_Beginner/DynamicLanguageRuntime/bin/Debug/net7.0/DynamicLanguageRuntime.deps.json
+/Users/mawhinneym/Projects/C#Beginner/CSharp_Beginner/DynamicLanguageRuntime/bin/Debug/net7.0/DynamicLanguageRuntime.runtimeconfig.json
+/Users/mawhinneym/Projects/C#Beginner/CSharp_Beginner/DynamicLanguageRuntime/bin/Debug/net7.0/DynamicLanguageRuntime.dll
+/Users/mawhinneym/Projects/C#Beginner/CSharp_Beginner/DynamicLanguageRuntime/bin/Debug/net7.0/DynamicLanguageRuntime.pdb
+/Users/mawhinneym/Projects/C#Beginner/CSharp_Beginner/DynamicLanguageRuntime/obj/Debug/net7.0/DynamicLanguageRuntime.csproj.AssemblyReference.cache
+/Users/mawhinneym/Projects/C#Beginner/CSharp_Beginner/DynamicLanguageRuntime/obj/Debug/net7.0/DynamicLanguageRuntime.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mawhinneym/Projects/C#Beginner/CSharp_Beginner/DynamicLanguageRuntime/obj/Debug/net7.0/DynamicLanguageRuntime.AssemblyInfoInputs.cache
+/Users/mawhinneym/Projects/C#Beginner/CSharp_Beginner/DynamicLanguageRuntime/obj/Debug/net7.0/DynamicLanguageRuntime.AssemblyInfo.cs
+/Users/mawhinneym/Projects/C#Beginner/CSharp_Beginner/DynamicLanguageRuntime/obj/Debug/net7.0/DynamicLanguageRuntime.csproj.CoreCompileInputs.cache
+/Users/mawhinneym/Projects/C#Beginner/CSharp_Beginner/DynamicLanguageRuntime/obj/Debug/net7.0/DynamicLanguageRuntime.dll
+/Users/mawhinneym/Projects/C#Beginner/CSharp_Beginner/DynamicLanguageRuntime/obj/Debug/net7.0/refint/DynamicLanguageRuntime.dll
+/Users/mawhinneym/Projects/C#Beginner/CSharp_Beginner/DynamicLanguageRuntime/obj/Debug/net7.0/DynamicLanguageRuntime.pdb
+/Users/mawhinneym/Projects/C#Beginner/CSharp_Beginner/DynamicLanguageRuntime/obj/Debug/net7.0/DynamicLanguageRuntime.genruntimeconfig.cache
+/Users/mawhinneym/Projects/C#Beginner/CSharp_Beginner/DynamicLanguageRuntime/obj/Debug/net7.0/ref/DynamicLanguageRuntime.dll

@@ -1,0 +1,15 @@
+/Users/mawhinneym/Projects/C#Beginner/CSharp_Beginner/ParallelClass(TPL)/obj/Debug/net7.0/ParallelClass(TPL).csproj.AssemblyReference.cache
+/Users/mawhinneym/Projects/C#Beginner/CSharp_Beginner/ParallelClass(TPL)/obj/Debug/net7.0/ParallelClass(TPL).GeneratedMSBuildEditorConfig.editorconfig
+/Users/mawhinneym/Projects/C#Beginner/CSharp_Beginner/ParallelClass(TPL)/obj/Debug/net7.0/ParallelClass(TPL).AssemblyInfoInputs.cache
+/Users/mawhinneym/Projects/C#Beginner/CSharp_Beginner/ParallelClass(TPL)/obj/Debug/net7.0/ParallelClass(TPL).AssemblyInfo.cs
+/Users/mawhinneym/Projects/C#Beginner/CSharp_Beginner/ParallelClass(TPL)/obj/Debug/net7.0/ParallelClass(TPL).csproj.CoreCompileInputs.cache
+/Users/mawhinneym/Projects/C#Beginner/CSharp_Beginner/ParallelClass(TPL)/bin/Debug/net7.0/ParallelClass(TPL)
+/Users/mawhinneym/Projects/C#Beginner/CSharp_Beginner/ParallelClass(TPL)/bin/Debug/net7.0/ParallelClass(TPL).deps.json
+/Users/mawhinneym/Projects/C#Beginner/CSharp_Beginner/ParallelClass(TPL)/bin/Debug/net7.0/ParallelClass(TPL).runtimeconfig.json
+/Users/mawhinneym/Projects/C#Beginner/CSharp_Beginner/ParallelClass(TPL)/bin/Debug/net7.0/ParallelClass(TPL).dll
+/Users/mawhinneym/Projects/C#Beginner/CSharp_Beginner/ParallelClass(TPL)/bin/Debug/net7.0/ParallelClass(TPL).pdb
+/Users/mawhinneym/Projects/C#Beginner/CSharp_Beginner/ParallelClass(TPL)/obj/Debug/net7.0/ParallelClass(TPL).dll
+/Users/mawhinneym/Projects/C#Beginner/CSharp_Beginner/ParallelClass(TPL)/obj/Debug/net7.0/refint/ParallelClass(TPL).dll
+/Users/mawhinneym/Projects/C#Beginner/CSharp_Beginner/ParallelClass(TPL)/obj/Debug/net7.0/ParallelClass(TPL).pdb
+/Users/mawhinneym/Projects/C#Beginner/CSharp_Beginner/ParallelClass(TPL)/obj/Debug/net7.0/ParallelClass(TPL).genruntimeconfig.cache
+/Users/mawhinneym/Projects/C#Beginner/CSharp_Beginner/ParallelClass(TPL)/obj/Debug/net7.0/ref/ParallelClass(TPL).dll
