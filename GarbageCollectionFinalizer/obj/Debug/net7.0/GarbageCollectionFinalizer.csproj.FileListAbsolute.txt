@@ -1,0 +1,15 @@
+/Users/mawhinneym/Projects/C#Beginner/CSharp_Beginner/GarbageCollectionFinalizer/obj/Debug/net7.0/GarbageCollectionFinalizer.csproj.AssemblyReference.cache
+/Users/mawhinneym/Projects/C#Beginner/CSharp_Beginner/GarbageCollectionFinalizer/obj/Debug/net7.0/GarbageCollectionFinalizer.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mawhinneym/Projects/C#Beginner/CSharp_Beginner/GarbageCollectionFinalizer/obj/Debug/net7.0/GarbageCollectionFinalizer.AssemblyInfoInputs.cache
+/Users/mawhinneym/Projects/C#Beginner/CSharp_Beginner/GarbageCollectionFinalizer/obj/Debug/net7.0/GarbageCollectionFinalizer.AssemblyInfo.cs
+/Users/mawhinneym/Projects/C#Beginner/CSharp_Beginner/GarbageCollectionFinalizer/obj/Debug/net7.0/GarbageCollectionFinalizer.csproj.CoreCompileInputs.cache
+/Users/mawhinneym/Projects/C#Beginner/CSharp_Beginner/GarbageCollectionFinalizer/bin/Debug/net7.0/GarbageCollectionFinalizer
+/Users/mawhinneym/Projects/C#Beginner/CSharp_Beginner/GarbageCollectionFinalizer/bin/Debug/net7.0/GarbageCollectionFinalizer.deps.json
+/Users/mawhinneym/Projects/C#Beginner/CSharp_Beginner/GarbageCollectionFinalizer/bin/Debug/net7.0/GarbageCollectionFinalizer.runtimeconfig.json
+/Users/mawhinneym/Projects/C#Beginner/CSharp_Beginner/GarbageCollectionFinalizer/bin/Debug/net7.0/GarbageCollectionFinalizer.dll
+/Users/mawhinneym/Projects/C#Beginner/CSharp_Beginner/GarbageCollectionFinalizer/bin/Debug/net7.0/GarbageCollectionFinalizer.pdb
+/Users/mawhinneym/Projects/C#Beginner/CSharp_Beginner/GarbageCollectionFinalizer/obj/Debug/net7.0/GarbageCollectionFinalizer.dll
+/Users/mawhinneym/Projects/C#Beginner/CSharp_Beginner/GarbageCollectionFinalizer/obj/Debug/net7.0/refint/GarbageCollectionFinalizer.dll
+/Users/mawhinneym/Projects/C#Beginner/CSharp_Beginner/GarbageCollectionFinalizer/obj/Debug/net7.0/GarbageCollectionFinalizer.pdb
+/Users/mawhinneym/Projects/C#Beginner/CSharp_Beginner/GarbageCollectionFinalizer/obj/Debug/net7.0/GarbageCollectionFinalizer.genruntimeconfig.cache
+/Users/mawhinneym/Projects/C#Beginner/CSharp_Beginner/GarbageCollectionFinalizer/obj/Debug/net7.0/ref/GarbageCollectionFinalizer.dll

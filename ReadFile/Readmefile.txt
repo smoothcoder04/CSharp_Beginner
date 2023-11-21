@@ -1,0 +1,1 @@
+This is args test file to be read by the Program.cs

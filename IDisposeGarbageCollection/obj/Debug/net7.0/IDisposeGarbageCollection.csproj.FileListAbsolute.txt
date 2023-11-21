@@ -1,0 +1,15 @@
+/Users/mawhinneym/Projects/C#Beginner/CSharp_Beginner/IDisposeGarbageCollection/obj/Debug/net7.0/IDisposeGarbageCollection.csproj.AssemblyReference.cache
+/Users/mawhinneym/Projects/C#Beginner/CSharp_Beginner/IDisposeGarbageCollection/obj/Debug/net7.0/IDisposeGarbageCollection.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mawhinneym/Projects/C#Beginner/CSharp_Beginner/IDisposeGarbageCollection/obj/Debug/net7.0/IDisposeGarbageCollection.AssemblyInfoInputs.cache
+/Users/mawhinneym/Projects/C#Beginner/CSharp_Beginner/IDisposeGarbageCollection/obj/Debug/net7.0/IDisposeGarbageCollection.AssemblyInfo.cs
+/Users/mawhinneym/Projects/C#Beginner/CSharp_Beginner/IDisposeGarbageCollection/obj/Debug/net7.0/IDisposeGarbageCollection.csproj.CoreCompileInputs.cache
+/Users/mawhinneym/Projects/C#Beginner/CSharp_Beginner/IDisposeGarbageCollection/bin/Debug/net7.0/IDisposeGarbageCollection
+/Users/mawhinneym/Projects/C#Beginner/CSharp_Beginner/IDisposeGarbageCollection/bin/Debug/net7.0/IDisposeGarbageCollection.deps.json
+/Users/mawhinneym/Projects/C#Beginner/CSharp_Beginner/IDisposeGarbageCollection/bin/Debug/net7.0/IDisposeGarbageCollection.runtimeconfig.json
+/Users/mawhinneym/Projects/C#Beginner/CSharp_Beginner/IDisposeGarbageCollection/bin/Debug/net7.0/IDisposeGarbageCollection.dll
+/Users/mawhinneym/Projects/C#Beginner/CSharp_Beginner/IDisposeGarbageCollection/bin/Debug/net7.0/IDisposeGarbageCollection.pdb
+/Users/mawhinneym/Projects/C#Beginner/CSharp_Beginner/IDisposeGarbageCollection/obj/Debug/net7.0/IDisposeGarbageCollection.dll
+/Users/mawhinneym/Projects/C#Beginner/CSharp_Beginner/IDisposeGarbageCollection/obj/Debug/net7.0/refint/IDisposeGarbageCollection.dll
+/Users/mawhinneym/Projects/C#Beginner/CSharp_Beginner/IDisposeGarbageCollection/obj/Debug/net7.0/IDisposeGarbageCollection.pdb
+/Users/mawhinneym/Projects/C#Beginner/CSharp_Beginner/IDisposeGarbageCollection/obj/Debug/net7.0/IDisposeGarbageCollection.genruntimeconfig.cache
+/Users/mawhinneym/Projects/C#Beginner/CSharp_Beginner/IDisposeGarbageCollection/obj/Debug/net7.0/ref/IDisposeGarbageCollection.dll

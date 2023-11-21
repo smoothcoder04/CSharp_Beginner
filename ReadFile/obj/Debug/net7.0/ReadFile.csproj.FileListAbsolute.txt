@@ -1,0 +1,15 @@
+/Users/mawhinneym/Projects/C#Beginner/CSharp_Beginner/ReadFile/obj/Debug/net7.0/ReadFile.csproj.AssemblyReference.cache
+/Users/mawhinneym/Projects/C#Beginner/CSharp_Beginner/ReadFile/obj/Debug/net7.0/ReadFile.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mawhinneym/Projects/C#Beginner/CSharp_Beginner/ReadFile/obj/Debug/net7.0/ReadFile.AssemblyInfoInputs.cache
+/Users/mawhinneym/Projects/C#Beginner/CSharp_Beginner/ReadFile/obj/Debug/net7.0/ReadFile.AssemblyInfo.cs
+/Users/mawhinneym/Projects/C#Beginner/CSharp_Beginner/ReadFile/obj/Debug/net7.0/ReadFile.csproj.CoreCompileInputs.cache
+/Users/mawhinneym/Projects/C#Beginner/CSharp_Beginner/ReadFile/bin/Debug/net7.0/ReadFile
+/Users/mawhinneym/Projects/C#Beginner/CSharp_Beginner/ReadFile/bin/Debug/net7.0/ReadFile.deps.json
+/Users/mawhinneym/Projects/C#Beginner/CSharp_Beginner/ReadFile/bin/Debug/net7.0/ReadFile.runtimeconfig.json
+/Users/mawhinneym/Projects/C#Beginner/CSharp_Beginner/ReadFile/bin/Debug/net7.0/ReadFile.dll
+/Users/mawhinneym/Projects/C#Beginner/CSharp_Beginner/ReadFile/bin/Debug/net7.0/ReadFile.pdb
+/Users/mawhinneym/Projects/C#Beginner/CSharp_Beginner/ReadFile/obj/Debug/net7.0/ReadFile.dll
+/Users/mawhinneym/Projects/C#Beginner/CSharp_Beginner/ReadFile/obj/Debug/net7.0/refint/ReadFile.dll
+/Users/mawhinneym/Projects/C#Beginner/CSharp_Beginner/ReadFile/obj/Debug/net7.0/ReadFile.pdb
+/Users/mawhinneym/Projects/C#Beginner/CSharp_Beginner/ReadFile/obj/Debug/net7.0/ReadFile.genruntimeconfig.cache
+/Users/mawhinneym/Projects/C#Beginner/CSharp_Beginner/ReadFile/obj/Debug/net7.0/ref/ReadFile.dll
