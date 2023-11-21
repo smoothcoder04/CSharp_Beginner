@@ -1,0 +1,15 @@
+/Users/mawhinneym/Projects/C#Beginner/CSharp_Beginner/GarbageCollector/bin/Debug/net7.0/GarbageCollector
+/Users/mawhinneym/Projects/C#Beginner/CSharp_Beginner/GarbageCollector/bin/Debug/net7.0/GarbageCollector.deps.json
+/Users/mawhinneym/Projects/C#Beginner/CSharp_Beginner/GarbageCollector/bin/Debug/net7.0/GarbageCollector.runtimeconfig.json
+/Users/mawhinneym/Projects/C#Beginner/CSharp_Beginner/GarbageCollector/bin/Debug/net7.0/GarbageCollector.dll
+/Users/mawhinneym/Projects/C#Beginner/CSharp_Beginner/GarbageCollector/bin/Debug/net7.0/GarbageCollector.pdb
+/Users/mawhinneym/Projects/C#Beginner/CSharp_Beginner/GarbageCollector/obj/Debug/net7.0/GarbageCollector.csproj.AssemblyReference.cache
+/Users/mawhinneym/Projects/C#Beginner/CSharp_Beginner/GarbageCollector/obj/Debug/net7.0/GarbageCollector.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mawhinneym/Projects/C#Beginner/CSharp_Beginner/GarbageCollector/obj/Debug/net7.0/GarbageCollector.AssemblyInfoInputs.cache
+/Users/mawhinneym/Projects/C#Beginner/CSharp_Beginner/GarbageCollector/obj/Debug/net7.0/GarbageCollector.AssemblyInfo.cs
+/Users/mawhinneym/Projects/C#Beginner/CSharp_Beginner/GarbageCollector/obj/Debug/net7.0/GarbageCollector.csproj.CoreCompileInputs.cache
+/Users/mawhinneym/Projects/C#Beginner/CSharp_Beginner/GarbageCollector/obj/Debug/net7.0/GarbageCollector.dll
+/Users/mawhinneym/Projects/C#Beginner/CSharp_Beginner/GarbageCollector/obj/Debug/net7.0/refint/GarbageCollector.dll
+/Users/mawhinneym/Projects/C#Beginner/CSharp_Beginner/GarbageCollector/obj/Debug/net7.0/GarbageCollector.pdb
+/Users/mawhinneym/Projects/C#Beginner/CSharp_Beginner/GarbageCollector/obj/Debug/net7.0/GarbageCollector.genruntimeconfig.cache
+/Users/mawhinneym/Projects/C#Beginner/CSharp_Beginner/GarbageCollector/obj/Debug/net7.0/ref/GarbageCollector.dll

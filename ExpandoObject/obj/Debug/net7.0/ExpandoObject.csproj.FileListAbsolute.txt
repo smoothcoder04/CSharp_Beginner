@@ -1,0 +1,15 @@
+/Users/mawhinneym/Projects/C#Beginner/CSharp_Beginner/ExpandoObject/obj/Debug/net7.0/ExpandoObject.csproj.AssemblyReference.cache
+/Users/mawhinneym/Projects/C#Beginner/CSharp_Beginner/ExpandoObject/obj/Debug/net7.0/ExpandoObject.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mawhinneym/Projects/C#Beginner/CSharp_Beginner/ExpandoObject/obj/Debug/net7.0/ExpandoObject.AssemblyInfoInputs.cache
+/Users/mawhinneym/Projects/C#Beginner/CSharp_Beginner/ExpandoObject/obj/Debug/net7.0/ExpandoObject.AssemblyInfo.cs
+/Users/mawhinneym/Projects/C#Beginner/CSharp_Beginner/ExpandoObject/obj/Debug/net7.0/ExpandoObject.csproj.CoreCompileInputs.cache
+/Users/mawhinneym/Projects/C#Beginner/CSharp_Beginner/ExpandoObject/bin/Debug/net7.0/ExpandoObject
+/Users/mawhinneym/Projects/C#Beginner/CSharp_Beginner/ExpandoObject/bin/Debug/net7.0/ExpandoObject.deps.json
+/Users/mawhinneym/Projects/C#Beginner/CSharp_Beginner/ExpandoObject/bin/Debug/net7.0/ExpandoObject.runtimeconfig.json
+/Users/mawhinneym/Projects/C#Beginner/CSharp_Beginner/ExpandoObject/bin/Debug/net7.0/ExpandoObject.dll
+/Users/mawhinneym/Projects/C#Beginner/CSharp_Beginner/ExpandoObject/bin/Debug/net7.0/ExpandoObject.pdb
+/Users/mawhinneym/Projects/C#Beginner/CSharp_Beginner/ExpandoObject/obj/Debug/net7.0/ExpandoObject.dll
+/Users/mawhinneym/Projects/C#Beginner/CSharp_Beginner/ExpandoObject/obj/Debug/net7.0/refint/ExpandoObject.dll
+/Users/mawhinneym/Projects/C#Beginner/CSharp_Beginner/ExpandoObject/obj/Debug/net7.0/ExpandoObject.pdb
+/Users/mawhinneym/Projects/C#Beginner/CSharp_Beginner/ExpandoObject/obj/Debug/net7.0/ExpandoObject.genruntimeconfig.cache
+/Users/mawhinneym/Projects/C#Beginner/CSharp_Beginner/ExpandoObject/obj/Debug/net7.0/ref/ExpandoObject.dll
