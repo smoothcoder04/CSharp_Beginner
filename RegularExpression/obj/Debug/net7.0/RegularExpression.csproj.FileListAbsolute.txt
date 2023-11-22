@@ -1,0 +1,15 @@
+/Users/mawhinneym/Projects/C#Beginner/CSharp_Beginner/RegularExpression/obj/Debug/net7.0/RegularExpression.csproj.AssemblyReference.cache
+/Users/mawhinneym/Projects/C#Beginner/CSharp_Beginner/RegularExpression/obj/Debug/net7.0/RegularExpression.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mawhinneym/Projects/C#Beginner/CSharp_Beginner/RegularExpression/obj/Debug/net7.0/RegularExpression.AssemblyInfoInputs.cache
+/Users/mawhinneym/Projects/C#Beginner/CSharp_Beginner/RegularExpression/obj/Debug/net7.0/RegularExpression.AssemblyInfo.cs
+/Users/mawhinneym/Projects/C#Beginner/CSharp_Beginner/RegularExpression/obj/Debug/net7.0/RegularExpression.csproj.CoreCompileInputs.cache
+/Users/mawhinneym/Projects/C#Beginner/CSharp_Beginner/RegularExpression/bin/Debug/net7.0/RegularExpression
+/Users/mawhinneym/Projects/C#Beginner/CSharp_Beginner/RegularExpression/bin/Debug/net7.0/RegularExpression.deps.json
+/Users/mawhinneym/Projects/C#Beginner/CSharp_Beginner/RegularExpression/bin/Debug/net7.0/RegularExpression.runtimeconfig.json
+/Users/mawhinneym/Projects/C#Beginner/CSharp_Beginner/RegularExpression/bin/Debug/net7.0/RegularExpression.dll
+/Users/mawhinneym/Projects/C#Beginner/CSharp_Beginner/RegularExpression/bin/Debug/net7.0/RegularExpression.pdb
+/Users/mawhinneym/Projects/C#Beginner/CSharp_Beginner/RegularExpression/obj/Debug/net7.0/RegularExpression.dll
+/Users/mawhinneym/Projects/C#Beginner/CSharp_Beginner/RegularExpression/obj/Debug/net7.0/refint/RegularExpression.dll
+/Users/mawhinneym/Projects/C#Beginner/CSharp_Beginner/RegularExpression/obj/Debug/net7.0/RegularExpression.pdb
+/Users/mawhinneym/Projects/C#Beginner/CSharp_Beginner/RegularExpression/obj/Debug/net7.0/RegularExpression.genruntimeconfig.cache
+/Users/mawhinneym/Projects/C#Beginner/CSharp_Beginner/RegularExpression/obj/Debug/net7.0/ref/RegularExpression.dll
