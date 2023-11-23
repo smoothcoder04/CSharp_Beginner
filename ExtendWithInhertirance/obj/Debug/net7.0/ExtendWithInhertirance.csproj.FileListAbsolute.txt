@@ -1,0 +1,15 @@
+/Users/mawhinneym/Projects/C#Beginner/CSharp_Beginner/ExtendWithInhertirance/obj/Debug/net7.0/ExtendWithInhertirance.csproj.AssemblyReference.cache
+/Users/mawhinneym/Projects/C#Beginner/CSharp_Beginner/ExtendWithInhertirance/obj/Debug/net7.0/ExtendWithInhertirance.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mawhinneym/Projects/C#Beginner/CSharp_Beginner/ExtendWithInhertirance/obj/Debug/net7.0/ExtendWithInhertirance.AssemblyInfoInputs.cache
+/Users/mawhinneym/Projects/C#Beginner/CSharp_Beginner/ExtendWithInhertirance/obj/Debug/net7.0/ExtendWithInhertirance.AssemblyInfo.cs
+/Users/mawhinneym/Projects/C#Beginner/CSharp_Beginner/ExtendWithInhertirance/obj/Debug/net7.0/ExtendWithInhertirance.csproj.CoreCompileInputs.cache
+/Users/mawhinneym/Projects/C#Beginner/CSharp_Beginner/ExtendWithInhertirance/bin/Debug/net7.0/ExtendWithInhertirance
+/Users/mawhinneym/Projects/C#Beginner/CSharp_Beginner/ExtendWithInhertirance/bin/Debug/net7.0/ExtendWithInhertirance.deps.json
+/Users/mawhinneym/Projects/C#Beginner/CSharp_Beginner/ExtendWithInhertirance/bin/Debug/net7.0/ExtendWithInhertirance.runtimeconfig.json
+/Users/mawhinneym/Projects/C#Beginner/CSharp_Beginner/ExtendWithInhertirance/bin/Debug/net7.0/ExtendWithInhertirance.dll
+/Users/mawhinneym/Projects/C#Beginner/CSharp_Beginner/ExtendWithInhertirance/bin/Debug/net7.0/ExtendWithInhertirance.pdb
+/Users/mawhinneym/Projects/C#Beginner/CSharp_Beginner/ExtendWithInhertirance/obj/Debug/net7.0/ExtendWithInhertirance.dll
+/Users/mawhinneym/Projects/C#Beginner/CSharp_Beginner/ExtendWithInhertirance/obj/Debug/net7.0/refint/ExtendWithInhertirance.dll
+/Users/mawhinneym/Projects/C#Beginner/CSharp_Beginner/ExtendWithInhertirance/obj/Debug/net7.0/ExtendWithInhertirance.pdb
+/Users/mawhinneym/Projects/C#Beginner/CSharp_Beginner/ExtendWithInhertirance/obj/Debug/net7.0/ExtendWithInhertirance.genruntimeconfig.cache
+/Users/mawhinneym/Projects/C#Beginner/CSharp_Beginner/ExtendWithInhertirance/obj/Debug/net7.0/ref/ExtendWithInhertirance.dll

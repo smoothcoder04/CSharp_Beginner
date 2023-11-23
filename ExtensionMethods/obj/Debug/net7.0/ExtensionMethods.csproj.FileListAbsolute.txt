@@ -1,0 +1,15 @@
+/Users/mawhinneym/Projects/C#Beginner/CSharp_Beginner/ExtensionMethods/bin/Debug/net7.0/ExtensionMethods
+/Users/mawhinneym/Projects/C#Beginner/CSharp_Beginner/ExtensionMethods/bin/Debug/net7.0/ExtensionMethods.deps.json
+/Users/mawhinneym/Projects/C#Beginner/CSharp_Beginner/ExtensionMethods/bin/Debug/net7.0/ExtensionMethods.runtimeconfig.json
+/Users/mawhinneym/Projects/C#Beginner/CSharp_Beginner/ExtensionMethods/bin/Debug/net7.0/ExtensionMethods.dll
+/Users/mawhinneym/Projects/C#Beginner/CSharp_Beginner/ExtensionMethods/bin/Debug/net7.0/ExtensionMethods.pdb
+/Users/mawhinneym/Projects/C#Beginner/CSharp_Beginner/ExtensionMethods/obj/Debug/net7.0/ExtensionMethods.csproj.AssemblyReference.cache
+/Users/mawhinneym/Projects/C#Beginner/CSharp_Beginner/ExtensionMethods/obj/Debug/net7.0/ExtensionMethods.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mawhinneym/Projects/C#Beginner/CSharp_Beginner/ExtensionMethods/obj/Debug/net7.0/ExtensionMethods.AssemblyInfoInputs.cache
+/Users/mawhinneym/Projects/C#Beginner/CSharp_Beginner/ExtensionMethods/obj/Debug/net7.0/ExtensionMethods.AssemblyInfo.cs
+/Users/mawhinneym/Projects/C#Beginner/CSharp_Beginner/ExtensionMethods/obj/Debug/net7.0/ExtensionMethods.csproj.CoreCompileInputs.cache
+/Users/mawhinneym/Projects/C#Beginner/CSharp_Beginner/ExtensionMethods/obj/Debug/net7.0/ExtensionMethods.dll
+/Users/mawhinneym/Projects/C#Beginner/CSharp_Beginner/ExtensionMethods/obj/Debug/net7.0/refint/ExtensionMethods.dll
+/Users/mawhinneym/Projects/C#Beginner/CSharp_Beginner/ExtensionMethods/obj/Debug/net7.0/ExtensionMethods.pdb
+/Users/mawhinneym/Projects/C#Beginner/CSharp_Beginner/ExtensionMethods/obj/Debug/net7.0/ExtensionMethods.genruntimeconfig.cache
+/Users/mawhinneym/Projects/C#Beginner/CSharp_Beginner/ExtensionMethods/obj/Debug/net7.0/ref/ExtensionMethods.dll
