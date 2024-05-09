@@ -35,6 +35,11 @@ namespace LambdaSample
             {
                 myincrement(ref num);
             }
+
+            //squarenumbers
+            int[] numbers = {2,3,4,5};
+            var squarenumbers = numbers.Select(x => x*x);
+            Console.WriteLine(string.Join(" ",squarenumbers));
         }
     }
 }
