@@ -15,7 +15,7 @@ namespace FootballMatchScoreBoard
             //FootballMatchScore.IncreaseScoreTeam1();
             //FootballMatchScore.IncreaseScoreTeam2();
 
-            var newMatch = new CustomEvent("Arsenal", "MANUnited§1");
+            var newMatch = new CustomEvent("Arsenal", "MANUnited");
             //subscribe
             newMatch.GoalScored += (scorer, team1Score, team2Score) =>
             {
