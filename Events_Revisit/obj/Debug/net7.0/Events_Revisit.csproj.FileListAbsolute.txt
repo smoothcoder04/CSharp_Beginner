@@ -1,0 +1,15 @@
+/Users/mawhinneym/Projects/C#Beginner/CSharp_Beginner/Events_Revisit/bin/Debug/net7.0/Events_Revisit
+/Users/mawhinneym/Projects/C#Beginner/CSharp_Beginner/Events_Revisit/bin/Debug/net7.0/Events_Revisit.deps.json
+/Users/mawhinneym/Projects/C#Beginner/CSharp_Beginner/Events_Revisit/bin/Debug/net7.0/Events_Revisit.runtimeconfig.json
+/Users/mawhinneym/Projects/C#Beginner/CSharp_Beginner/Events_Revisit/bin/Debug/net7.0/Events_Revisit.dll
+/Users/mawhinneym/Projects/C#Beginner/CSharp_Beginner/Events_Revisit/bin/Debug/net7.0/Events_Revisit.pdb
+/Users/mawhinneym/Projects/C#Beginner/CSharp_Beginner/Events_Revisit/obj/Debug/net7.0/Events_Revisit.csproj.AssemblyReference.cache
+/Users/mawhinneym/Projects/C#Beginner/CSharp_Beginner/Events_Revisit/obj/Debug/net7.0/Events_Revisit.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mawhinneym/Projects/C#Beginner/CSharp_Beginner/Events_Revisit/obj/Debug/net7.0/Events_Revisit.AssemblyInfoInputs.cache
+/Users/mawhinneym/Projects/C#Beginner/CSharp_Beginner/Events_Revisit/obj/Debug/net7.0/Events_Revisit.AssemblyInfo.cs
+/Users/mawhinneym/Projects/C#Beginner/CSharp_Beginner/Events_Revisit/obj/Debug/net7.0/Events_Revisit.csproj.CoreCompileInputs.cache
+/Users/mawhinneym/Projects/C#Beginner/CSharp_Beginner/Events_Revisit/obj/Debug/net7.0/Events_Revisit.dll
+/Users/mawhinneym/Projects/C#Beginner/CSharp_Beginner/Events_Revisit/obj/Debug/net7.0/refint/Events_Revisit.dll
+/Users/mawhinneym/Projects/C#Beginner/CSharp_Beginner/Events_Revisit/obj/Debug/net7.0/Events_Revisit.pdb
+/Users/mawhinneym/Projects/C#Beginner/CSharp_Beginner/Events_Revisit/obj/Debug/net7.0/Events_Revisit.genruntimeconfig.cache
+/Users/mawhinneym/Projects/C#Beginner/CSharp_Beginner/Events_Revisit/obj/Debug/net7.0/ref/Events_Revisit.dll
