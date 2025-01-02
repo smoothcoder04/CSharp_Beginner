@@ -102,6 +102,11 @@ namespace Collections
                {
                     position = -1;
                }
+
+               public void Remove(int num)
+               {
+                    _positiveIntegerList.Remove(num);
+               }
           }
      }
 }
