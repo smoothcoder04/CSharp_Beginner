@@ -1,0 +1,15 @@
+/Users/mawhinneym/Projects/C#Beginner/CSharp_Beginner/Arrays/bin/Debug/net9.0/Arrays
+/Users/mawhinneym/Projects/C#Beginner/CSharp_Beginner/Arrays/bin/Debug/net9.0/Arrays.deps.json
+/Users/mawhinneym/Projects/C#Beginner/CSharp_Beginner/Arrays/bin/Debug/net9.0/Arrays.runtimeconfig.json
+/Users/mawhinneym/Projects/C#Beginner/CSharp_Beginner/Arrays/bin/Debug/net9.0/Arrays.dll
+/Users/mawhinneym/Projects/C#Beginner/CSharp_Beginner/Arrays/bin/Debug/net9.0/Arrays.pdb
+/Users/mawhinneym/Projects/C#Beginner/CSharp_Beginner/Arrays/obj/Debug/net9.0/Arrays.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mawhinneym/Projects/C#Beginner/CSharp_Beginner/Arrays/obj/Debug/net9.0/Arrays.AssemblyInfoInputs.cache
+/Users/mawhinneym/Projects/C#Beginner/CSharp_Beginner/Arrays/obj/Debug/net9.0/Arrays.AssemblyInfo.cs
+/Users/mawhinneym/Projects/C#Beginner/CSharp_Beginner/Arrays/obj/Debug/net9.0/Arrays.csproj.CoreCompileInputs.cache
+/Users/mawhinneym/Projects/C#Beginner/CSharp_Beginner/Arrays/obj/Debug/net9.0/Arrays.sourcelink.json
+/Users/mawhinneym/Projects/C#Beginner/CSharp_Beginner/Arrays/obj/Debug/net9.0/Arrays.dll
+/Users/mawhinneym/Projects/C#Beginner/CSharp_Beginner/Arrays/obj/Debug/net9.0/refint/Arrays.dll
+/Users/mawhinneym/Projects/C#Beginner/CSharp_Beginner/Arrays/obj/Debug/net9.0/Arrays.pdb
+/Users/mawhinneym/Projects/C#Beginner/CSharp_Beginner/Arrays/obj/Debug/net9.0/Arrays.genruntimeconfig.cache
+/Users/mawhinneym/Projects/C#Beginner/CSharp_Beginner/Arrays/obj/Debug/net9.0/ref/Arrays.dll
