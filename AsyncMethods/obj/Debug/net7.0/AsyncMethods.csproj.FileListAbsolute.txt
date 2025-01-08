@@ -1,4 +1,3 @@
-/Users/mawhinneym/Projects/C#Beginner/CSharp_Beginner/AsyncMethods/obj/Debug/net7.0/AsyncMethods.csproj.AssemblyReference.cache
 /Users/mawhinneym/Projects/C#Beginner/CSharp_Beginner/AsyncMethods/obj/Debug/net7.0/AsyncMethods.GeneratedMSBuildEditorConfig.editorconfig
 /Users/mawhinneym/Projects/C#Beginner/CSharp_Beginner/AsyncMethods/obj/Debug/net7.0/AsyncMethods.AssemblyInfoInputs.cache
 /Users/mawhinneym/Projects/C#Beginner/CSharp_Beginner/AsyncMethods/obj/Debug/net7.0/AsyncMethods.AssemblyInfo.cs
@@ -13,3 +12,4 @@
 /Users/mawhinneym/Projects/C#Beginner/CSharp_Beginner/AsyncMethods/obj/Debug/net7.0/AsyncMethods.pdb
 /Users/mawhinneym/Projects/C#Beginner/CSharp_Beginner/AsyncMethods/obj/Debug/net7.0/AsyncMethods.genruntimeconfig.cache
 /Users/mawhinneym/Projects/C#Beginner/CSharp_Beginner/AsyncMethods/obj/Debug/net7.0/ref/AsyncMethods.dll
+/Users/mawhinneym/Projects/C#Beginner/CSharp_Beginner/AsyncMethods/obj/Debug/net7.0/AsyncMethods.sourcelink.json

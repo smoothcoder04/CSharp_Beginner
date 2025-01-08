@@ -1,8 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "SsWYAWbUQUnlMnXFWTQzUq+n82gDtQ1r0qQ1ymzN1TTg1KqizGHQOwQMUaO0j0NKjq/eTfo5VXB0EbWUttVxPw==",
+  "dgSpecHash": "wfpsMrpRUyA=",
   "success": true,
   "projectFilePath": "/Users/mawhinneym/Projects/C#Beginner/CSharp_Beginner/Structs_Beginner/Structs_Beginner.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "/Users/mawhinneym/.nuget/packages/microsoft.netcore.app.ref/7.0.20/microsoft.netcore.app.ref.7.0.20.nupkg.sha512",
+    "/Users/mawhinneym/.nuget/packages/microsoft.aspnetcore.app.ref/7.0.20/microsoft.aspnetcore.app.ref.7.0.20.nupkg.sha512",
+    "/Users/mawhinneym/.nuget/packages/microsoft.netcore.app.host.osx-x64/7.0.20/microsoft.netcore.app.host.osx-x64.7.0.20.nupkg.sha512"
+  ],
   "logs": []
 }

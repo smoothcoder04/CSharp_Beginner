@@ -1,8 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "q5lIp7cj6F/GHg+ws+CZyPJeHJtIvddRhF0A40UV+4R7yJ35gMGVpkJKR2TdpmnAzg/rCailuGehEozS7X8GQA==",
+  "dgSpecHash": "uwfFfVCmn1Q=",
   "success": true,
   "projectFilePath": "/Users/mawhinneym/Projects/C#Beginner/CSharp_Beginner/ReadOnlyFields_Beginner/ReadOnlyFields_Beginner.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "/Users/mawhinneym/.nuget/packages/microsoft.netcore.app.ref/7.0.20/microsoft.netcore.app.ref.7.0.20.nupkg.sha512",
+    "/Users/mawhinneym/.nuget/packages/microsoft.aspnetcore.app.ref/7.0.20/microsoft.aspnetcore.app.ref.7.0.20.nupkg.sha512",
+    "/Users/mawhinneym/.nuget/packages/microsoft.netcore.app.host.osx-x64/7.0.20/microsoft.netcore.app.host.osx-x64.7.0.20.nupkg.sha512"
+  ],
   "logs": []
 }

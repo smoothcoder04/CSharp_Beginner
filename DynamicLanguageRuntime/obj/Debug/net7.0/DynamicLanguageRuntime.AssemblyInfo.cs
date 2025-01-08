@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("DynamicLanguageRuntime")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b46d5181b4d41f463b6decc143e315e24ee8f5b4")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e1818e8d9ab4086b93baf8358f24e904d329596b")]
 [assembly: System.Reflection.AssemblyProductAttribute("DynamicLanguageRuntime")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DynamicLanguageRuntime")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

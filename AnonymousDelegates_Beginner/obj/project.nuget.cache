@@ -1,8 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "LxVOQcCDUslHB1XLGK4OLa1Or+gzlpCei7LNRWfKzZiO/MqOv/revVQ8uTtiPmk1sRA59kPNjJLH72H7sWG/Kw==",
+  "dgSpecHash": "C7y1RqNGnl4=",
   "success": true,
   "projectFilePath": "/Users/mawhinneym/Projects/C#Beginner/CSharp_Beginner/AnonymousDelegates_Beginner/AnonymousDelegates_Beginner.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "/Users/mawhinneym/.nuget/packages/microsoft.netcore.app.ref/7.0.20/microsoft.netcore.app.ref.7.0.20.nupkg.sha512",
+    "/Users/mawhinneym/.nuget/packages/microsoft.aspnetcore.app.ref/7.0.20/microsoft.aspnetcore.app.ref.7.0.20.nupkg.sha512",
+    "/Users/mawhinneym/.nuget/packages/microsoft.netcore.app.host.osx-x64/7.0.20/microsoft.netcore.app.host.osx-x64.7.0.20.nupkg.sha512"
+  ],
   "logs": []
 }

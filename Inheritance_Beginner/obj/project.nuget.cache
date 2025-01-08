@@ -1,8 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "5ZE2r7rPmaGntsWYMxuaatLLukGlKpuHm72ft5ot8MntkyEyPCXKlNLTHjpB/JZ7a2Mdr/iPxCPGE7qrxhmMhg==",
+  "dgSpecHash": "2WZh54oL884=",
   "success": true,
   "projectFilePath": "/Users/mawhinneym/Projects/C#Beginner/CSharp_Beginner/Inheritance_Beginner/Inheritance_Beginner.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "/Users/mawhinneym/.nuget/packages/microsoft.netcore.app.ref/7.0.20/microsoft.netcore.app.ref.7.0.20.nupkg.sha512",
+    "/Users/mawhinneym/.nuget/packages/microsoft.aspnetcore.app.ref/7.0.20/microsoft.aspnetcore.app.ref.7.0.20.nupkg.sha512",
+    "/Users/mawhinneym/.nuget/packages/microsoft.netcore.app.host.osx-x64/7.0.20/microsoft.netcore.app.host.osx-x64.7.0.20.nupkg.sha512"
+  ],
   "logs": []
 }

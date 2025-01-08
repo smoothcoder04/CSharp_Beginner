@@ -1,8 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "cr06iW+5vG0uDTuPc29Si0G5px2BnsBAKI8/ot2+ED+EK5kGsk8gBAslPM7nZ8KUy7CdKHCGUJ0Fn4FI0uwcqQ==",
+  "dgSpecHash": "Z/waLL+K4To=",
   "success": true,
   "projectFilePath": "/Users/mawhinneym/Projects/C#Beginner/CSharp_Beginner/NullCheck_Beginner/NullCheck_Beginner.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "/Users/mawhinneym/.nuget/packages/microsoft.netcore.app.ref/7.0.20/microsoft.netcore.app.ref.7.0.20.nupkg.sha512",
+    "/Users/mawhinneym/.nuget/packages/microsoft.aspnetcore.app.ref/7.0.20/microsoft.aspnetcore.app.ref.7.0.20.nupkg.sha512",
+    "/Users/mawhinneym/.nuget/packages/microsoft.netcore.app.host.osx-x64/7.0.20/microsoft.netcore.app.host.osx-x64.7.0.20.nupkg.sha512"
+  ],
   "logs": []
 }
