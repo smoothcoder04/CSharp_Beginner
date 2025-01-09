@@ -1,0 +1,15 @@
+/Users/mawhinneym/Projects/C#Beginner/CSharp_Beginner/StringCollection/bin/Debug/net9.0/StringCollection
+/Users/mawhinneym/Projects/C#Beginner/CSharp_Beginner/StringCollection/bin/Debug/net9.0/StringCollection.deps.json
+/Users/mawhinneym/Projects/C#Beginner/CSharp_Beginner/StringCollection/bin/Debug/net9.0/StringCollection.runtimeconfig.json
+/Users/mawhinneym/Projects/C#Beginner/CSharp_Beginner/StringCollection/bin/Debug/net9.0/StringCollection.dll
+/Users/mawhinneym/Projects/C#Beginner/CSharp_Beginner/StringCollection/bin/Debug/net9.0/StringCollection.pdb
+/Users/mawhinneym/Projects/C#Beginner/CSharp_Beginner/StringCollection/obj/Debug/net9.0/StringCollection.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mawhinneym/Projects/C#Beginner/CSharp_Beginner/StringCollection/obj/Debug/net9.0/StringCollection.AssemblyInfoInputs.cache
+/Users/mawhinneym/Projects/C#Beginner/CSharp_Beginner/StringCollection/obj/Debug/net9.0/StringCollection.AssemblyInfo.cs
+/Users/mawhinneym/Projects/C#Beginner/CSharp_Beginner/StringCollection/obj/Debug/net9.0/StringCollection.csproj.CoreCompileInputs.cache
+/Users/mawhinneym/Projects/C#Beginner/CSharp_Beginner/StringCollection/obj/Debug/net9.0/StringCollection.sourcelink.json
+/Users/mawhinneym/Projects/C#Beginner/CSharp_Beginner/StringCollection/obj/Debug/net9.0/StringCollection.dll
+/Users/mawhinneym/Projects/C#Beginner/CSharp_Beginner/StringCollection/obj/Debug/net9.0/refint/StringCollection.dll
+/Users/mawhinneym/Projects/C#Beginner/CSharp_Beginner/StringCollection/obj/Debug/net9.0/StringCollection.pdb
+/Users/mawhinneym/Projects/C#Beginner/CSharp_Beginner/StringCollection/obj/Debug/net9.0/StringCollection.genruntimeconfig.cache
+/Users/mawhinneym/Projects/C#Beginner/CSharp_Beginner/StringCollection/obj/Debug/net9.0/ref/StringCollection.dll
