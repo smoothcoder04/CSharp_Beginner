@@ -1,0 +1,15 @@
+/Users/mawhinneym/Projects/C#Beginner/CSharp_Beginner/List/bin/Debug/net9.0/List
+/Users/mawhinneym/Projects/C#Beginner/CSharp_Beginner/List/bin/Debug/net9.0/List.deps.json
+/Users/mawhinneym/Projects/C#Beginner/CSharp_Beginner/List/bin/Debug/net9.0/List.runtimeconfig.json
+/Users/mawhinneym/Projects/C#Beginner/CSharp_Beginner/List/bin/Debug/net9.0/List.dll
+/Users/mawhinneym/Projects/C#Beginner/CSharp_Beginner/List/bin/Debug/net9.0/List.pdb
+/Users/mawhinneym/Projects/C#Beginner/CSharp_Beginner/List/obj/Debug/net9.0/List.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mawhinneym/Projects/C#Beginner/CSharp_Beginner/List/obj/Debug/net9.0/List.AssemblyInfoInputs.cache
+/Users/mawhinneym/Projects/C#Beginner/CSharp_Beginner/List/obj/Debug/net9.0/List.AssemblyInfo.cs
+/Users/mawhinneym/Projects/C#Beginner/CSharp_Beginner/List/obj/Debug/net9.0/List.csproj.CoreCompileInputs.cache
+/Users/mawhinneym/Projects/C#Beginner/CSharp_Beginner/List/obj/Debug/net9.0/List.sourcelink.json
+/Users/mawhinneym/Projects/C#Beginner/CSharp_Beginner/List/obj/Debug/net9.0/List.dll
+/Users/mawhinneym/Projects/C#Beginner/CSharp_Beginner/List/obj/Debug/net9.0/refint/List.dll
+/Users/mawhinneym/Projects/C#Beginner/CSharp_Beginner/List/obj/Debug/net9.0/List.pdb
+/Users/mawhinneym/Projects/C#Beginner/CSharp_Beginner/List/obj/Debug/net9.0/List.genruntimeconfig.cache
+/Users/mawhinneym/Projects/C#Beginner/CSharp_Beginner/List/obj/Debug/net9.0/ref/List.dll
