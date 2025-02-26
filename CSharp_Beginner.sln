@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.5.002.0
+VisualStudioVersion = 17.5.2.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TypeCasting_Beginner.cs", "TypeCasting_Beginner.cs\TypeCasting_Beginner.cs.csproj", "{1823D7F9-9EFA-431C-920A-2FFCF4F03662}"
 EndProject
@@ -14,8 +14,6 @@ EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Static_Beginner", "Static_Beginner\Static_Beginner.csproj", "{7F9C2902-17AC-4F3C-8922-2802EF03383D}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EventHandler_Delegate", "EventHandler_Delegate\EventHandler_Delegate.csproj", "{632E3AED-EEEF-4BA6-83DB-A96AA34AA57C}"
-EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "basicprogram", "basicprogram\basicprogram.csproj", "{F1AB2F14-B7BA-4401-86BF-CFE1CB30506B}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OperatorOverloading_Beginner", "OperatorOverloading_Beginner\OperatorOverloading_Beginner.csproj", "{D0F89133-1D76-4C3C-9186-487EF96F1E31}"
 EndProject
@@ -69,6 +67,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StringCollection", "StringC
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "List", "List\List.csproj", "{A43664DA-F4B1-4053-B21E-809770B0796F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Float_Beginner", "Float_Beginner\Float_Beginner.csproj", "{E6511FFA-BF43-4333-A73D-5B0EDEA625C1}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -99,10 +99,6 @@ Global
 		{632E3AED-EEEF-4BA6-83DB-A96AA34AA57C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{632E3AED-EEEF-4BA6-83DB-A96AA34AA57C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{632E3AED-EEEF-4BA6-83DB-A96AA34AA57C}.Release|Any CPU.Build.0 = Release|Any CPU
-		{F1AB2F14-B7BA-4401-86BF-CFE1CB30506B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{F1AB2F14-B7BA-4401-86BF-CFE1CB30506B}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{F1AB2F14-B7BA-4401-86BF-CFE1CB30506B}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{F1AB2F14-B7BA-4401-86BF-CFE1CB30506B}.Release|Any CPU.Build.0 = Release|Any CPU
 		{D0F89133-1D76-4C3C-9186-487EF96F1E31}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{D0F89133-1D76-4C3C-9186-487EF96F1E31}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D0F89133-1D76-4C3C-9186-487EF96F1E31}.Release|Any CPU.ActiveCfg = Release|Any CPU
@@ -207,6 +203,10 @@ Global
 		{A43664DA-F4B1-4053-B21E-809770B0796F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A43664DA-F4B1-4053-B21E-809770B0796F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A43664DA-F4B1-4053-B21E-809770B0796F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E6511FFA-BF43-4333-A73D-5B0EDEA625C1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E6511FFA-BF43-4333-A73D-5B0EDEA625C1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E6511FFA-BF43-4333-A73D-5B0EDEA625C1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E6511FFA-BF43-4333-A73D-5B0EDEA625C1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

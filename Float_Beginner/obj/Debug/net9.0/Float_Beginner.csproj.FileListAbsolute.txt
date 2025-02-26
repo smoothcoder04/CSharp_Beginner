@@ -1,0 +1,15 @@
+/Users/mithu.mawhinney/Documents/My Projects/CSharp_Beginner/Float_Beginner/bin/Debug/net9.0/Float_Beginner
+/Users/mithu.mawhinney/Documents/My Projects/CSharp_Beginner/Float_Beginner/bin/Debug/net9.0/Float_Beginner.deps.json
+/Users/mithu.mawhinney/Documents/My Projects/CSharp_Beginner/Float_Beginner/bin/Debug/net9.0/Float_Beginner.runtimeconfig.json
+/Users/mithu.mawhinney/Documents/My Projects/CSharp_Beginner/Float_Beginner/bin/Debug/net9.0/Float_Beginner.dll
+/Users/mithu.mawhinney/Documents/My Projects/CSharp_Beginner/Float_Beginner/bin/Debug/net9.0/Float_Beginner.pdb
+/Users/mithu.mawhinney/Documents/My Projects/CSharp_Beginner/Float_Beginner/obj/Debug/net9.0/Float_Beginner.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mithu.mawhinney/Documents/My Projects/CSharp_Beginner/Float_Beginner/obj/Debug/net9.0/Float_Beginner.AssemblyInfoInputs.cache
+/Users/mithu.mawhinney/Documents/My Projects/CSharp_Beginner/Float_Beginner/obj/Debug/net9.0/Float_Beginner.AssemblyInfo.cs
+/Users/mithu.mawhinney/Documents/My Projects/CSharp_Beginner/Float_Beginner/obj/Debug/net9.0/Float_Beginner.csproj.CoreCompileInputs.cache
+/Users/mithu.mawhinney/Documents/My Projects/CSharp_Beginner/Float_Beginner/obj/Debug/net9.0/Float_Beginner.sourcelink.json
+/Users/mithu.mawhinney/Documents/My Projects/CSharp_Beginner/Float_Beginner/obj/Debug/net9.0/Float_Beginner.dll
+/Users/mithu.mawhinney/Documents/My Projects/CSharp_Beginner/Float_Beginner/obj/Debug/net9.0/refint/Float_Beginner.dll
+/Users/mithu.mawhinney/Documents/My Projects/CSharp_Beginner/Float_Beginner/obj/Debug/net9.0/Float_Beginner.pdb
+/Users/mithu.mawhinney/Documents/My Projects/CSharp_Beginner/Float_Beginner/obj/Debug/net9.0/Float_Beginner.genruntimeconfig.cache
+/Users/mithu.mawhinney/Documents/My Projects/CSharp_Beginner/Float_Beginner/obj/Debug/net9.0/ref/Float_Beginner.dll
